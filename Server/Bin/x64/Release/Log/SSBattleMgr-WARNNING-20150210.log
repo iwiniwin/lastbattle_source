@@ -1,0 +1,8 @@
+02-10-21:56:09.6257 9508 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:21019==
+02-10-21:56:21.3833 9508 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10009==
+02-10-21:56:26.8846 9508 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10008==
+02-10-21:57:10.7882 9508 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10009==
+02-10-21:57:15.8875 9508 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10007==
+02-10-21:57:32.1874 9508 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10008==
+02-10-21:57:41.8029 11956 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510
+02-10-21:57:41.8849 9508 SceneServer::CSSGuideBattle::CheckPlayTimeout:503 all users offline, so finish it.

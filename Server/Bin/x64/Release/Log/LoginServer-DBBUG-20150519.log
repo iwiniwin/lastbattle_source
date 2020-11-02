@@ -1,0 +1,22 @@
+05-19-18:51:54.8479 20032 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49997, ReuseAddr 1
+05-19-18:51:54.8859 20032 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49996, ReuseAddr 1
+05-19-18:53:47.6720 20032 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:123(2), sessionid:123, platform:0
+05-19-18:53:47.7240 20032 SdkConnector::Update:610 Add uid:123, sessionid:0123
+05-19-18:53:47.7270 20032 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+05-19-18:54:12.9830 20032 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:123
+05-19-18:55:15.8422 20032 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:321(3), sessionid:123, platform:0
+05-19-18:55:15.8522 20032 SdkConnector::Update:610 Add uid:321, sessionid:0321
+05-19-18:55:15.8552 20032 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+05-19-18:55:17.5984 20032 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:321
+05-19-18:55:58.6407 20032 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:123321(4), sessionid:123321, platform:0
+05-19-18:55:58.6558 20032 SdkConnector::Update:610 Add uid:123321, sessionid:0123321
+05-19-18:55:58.6628 20032 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+05-19-18:56:01.2016 20032 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:123321
+05-19-18:57:03.9486 20032 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:123321(5), sessionid:123321, platform:0
+05-19-18:57:03.9596 20032 SdkConnector::Update:610 Add uid:123321, sessionid:0123321
+05-19-18:57:03.9626 20032 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+05-19-18:57:05.6908 20032 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:123321
+05-19-18:59:02.1807 20032 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:123321(6), sessionid:123321, platform:0
+05-19-18:59:02.1918 20032 SdkConnector::Update:610 Add uid:123321, sessionid:0123321
+05-19-18:59:02.1958 20032 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+05-19-18:59:04.0761 20032 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:123321

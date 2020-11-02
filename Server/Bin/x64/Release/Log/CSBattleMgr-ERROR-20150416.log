@@ -1,0 +1,8 @@
+04-16-09:22:14.1282 7348 CentralServer::CCSCfgMgr::LoadGoodsCfg:574 sValVec.size() != sAtrrVec.size()
+04-16-09:22:14.1292 7348 CentralServer::CCSCfgMgr::LoadGoodsCfg:574 sValVec.size() != sAtrrVec.size()
+04-16-09:22:14.1392 7348 CentralServer::CCSCfgMgr::LoadGoodsCfg:574 sValVec.size() != sAtrrVec.size()
+04-16-09:21:49.6808 5768 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_GameDB_1###########
+04-16-09:21:49.6818 7132 CentralServer::CCSUserMgr::DBAsyn_QueryWhenThreadBegin:60 --errorCode:2006,errorStr:MySQL server has gone away
+04-16-09:21:50.6825 5768 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_AccountDB###########
+04-16-09:21:51.6832 5768 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_GameDB_1###########
+04-16-09:21:52.6839 5768 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_GameDB_1###########

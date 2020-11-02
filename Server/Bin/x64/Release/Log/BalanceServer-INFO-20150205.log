@@ -1,0 +1,3 @@
+02-05-21:31:06.4773 7356 CB2LSession::SendInitData:29 LS Connected, try to register me.
+02-05-21:31:06.4793 7356 CB2LSession::OnRealEstablish:36 LS Connected and register ok
+02-05-21:31:13.8187 7356 CGateSession::OnRealEstablish:36 GS(30001) Connected.

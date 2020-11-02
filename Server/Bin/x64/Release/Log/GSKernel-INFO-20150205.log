@@ -1,0 +1,36 @@
+02-05-21:31:02.8001 6908 GateServer::CGSKernel::Initialize:107 CGSKernel Initialize success
+02-05-21:31:13.8177 6908 CM2CSession::SendInitData:34 CS Connected, try to register me.
+02-05-21:31:13.8207 6908 CM2BSession::SendInitData:33 BS Connected, try to register me.
+02-05-21:31:13.8227 6908 CM2BSession::OnRealEstablish:42 BS Connected and register ok.
+02-05-21:31:13.8257 6908 CM2CSession::OnRealEstablish:46 CS Connected and register ok
+02-05-21:31:13.8277 6908 CM2SSession::SendInitData:36 SS(20001) Connected, try to register me.
+02-05-21:31:13.8297 6908 CM2SSession::Msg_Handle_Init:92 register to SS 20001 success at session 3.
+02-05-21:31:13.8317 6908 CM2SSession::OnRealEstablish:52 SS(20001) Connected and register ok.
+02-05-21:31:13.8867 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-21:33:53.8879 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-21:36:33.8920 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-21:39:13.9092 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-21:41:53.9113 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-21:44:33.9145 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-21:47:13.9186 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-21:49:53.9248 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-21:52:33.9269 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-21:55:13.9261 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-21:57:53.9312 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:00:33.9324 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:03:13.9325 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:05:53.9327 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:08:33.9338 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:11:13.9330 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:13:53.9331 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:16:33.9333 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:19:13.9345 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:21:53.9366 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:24:33.9378 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:27:13.9399 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:29:53.9411 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:32:33.9432 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:35:13.9454 6908 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-05-22:35:31.7604 6908 CM2CSession::OnClose:52 CS DisConnect.
+02-05-22:35:31.9554 6908 CM2SSession::OnClose:64 SS(20001) DisConnect.
+02-05-22:35:32.2624 6908 CM2BSession::OnClose:47 BS DisConnect.

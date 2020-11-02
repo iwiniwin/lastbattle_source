@@ -1,0 +1,2 @@
+04-21-10:38:52.3883 65296 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!123--
+04-21-10:39:10.5811 65296 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:123, nickName:战斗吧少年

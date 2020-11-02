@@ -1,0 +1,2 @@
+02-05-21:38:35.7720 7356 CClientSession::MSG_OneClientLogin:58 user(wyy)(123)(3) ask login bs
+02-05-21:38:35.7740 7356 CB2LSession::Msg_User_Login:61 user(wyy)(123)(3) ask login ret

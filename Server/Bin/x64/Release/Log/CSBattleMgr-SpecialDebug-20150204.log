@@ -1,0 +1,8 @@
+02-04-20:37:29.2740 6196 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!wyy--
+02-04-20:37:36.9224 6196 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:wyy, nickName:abc
+02-04-20:37:41.6927 6196 CentralServer::CCSBattle::CCSBattle:33 create battle(1)
+02-04-20:37:41.6957 6196 CentralServer::CCSBattle::CCSBattle:43 battle(1) add user(2001)
+02-04-20:44:07.0847 6196 CentralServer::CCSBattle::OnFinish:236 destory battle(1)
+02-04-20:44:07.0877 6196 CentralServer::CCSBattle::OnFinish:242 battle(1) remove user(2001)
+02-04-20:44:07.0897 6196 CentralServer::CCSUserBattleInfo::Clear:64 user(wyy) clear by reason(2)
+02-04-20:44:07.0917 6196 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 É¾³ýÍæ¼Ò!

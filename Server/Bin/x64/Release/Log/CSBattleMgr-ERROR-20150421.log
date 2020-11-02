@@ -1,0 +1,8 @@
+04-21-10:38:16.3364 65296 CentralServer::CCSCfgMgr::LoadGoodsCfg:574 sValVec.size() != sAtrrVec.size()
+04-21-10:38:16.3374 65296 CentralServer::CCSCfgMgr::LoadGoodsCfg:574 sValVec.size() != sAtrrVec.size()
+04-21-10:38:16.3384 65296 CentralServer::CCSCfgMgr::LoadGoodsCfg:574 sValVec.size() != sAtrrVec.size()
+04-21-10:36:41.5063 51512 CentralServer::CCSUserMgr::DBAsyn_QueryWhenThreadBegin:60 --errorCode:1146,errorStr:Table 'fball_gamedb_1.game_mail' doesn't exist
+10.4233 21740 CentralServer::CCSUserMgr::DBAsyn_QueryWhenThreadBegin:60 --errorCode:2006,errorStr:MySQL server has gone away
+04-21-10:35:11.4170 19060 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_AccountDB###########
+04-21-10:35:12.4197 19060 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_GameDB_1###########
+04-21-10:35:13.4214 19060 DBActiveWrapper::DBActiveWrapper:14 #####  i can not connect db,ret:-1,dbip:127.0.0.1,dbName:FBAll_GameDB_1###########

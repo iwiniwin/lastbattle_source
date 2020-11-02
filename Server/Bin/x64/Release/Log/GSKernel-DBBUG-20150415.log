@@ -1,0 +1,38 @@
+04-15-19:26:50.1317 5956 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:40001, ReuseAddr 1
+04-15-19:27:01.0204 5956 CM2CSession::Msg_Handle_Init:77 m_un32MaxSSNum:15
+04-15-15:48:38.6100 2624 CClientSession::OnRealEstablish:38 client(4)(192.168.1.88:10343) connected.
+04-15-15:48:38.6110 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(4) ask login(123)(E9DB7402E4DB443A8CEBA596C2D86EBE)
+04-15-15:54:40.5754 2624 CClientSession::OnRealEstablish:38 client(5)(192.168.1.88:10592) connected.
+04-15-15:54:40.5764 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(5) ask login(321)(4C8B7CE376AC4F35A24B1E2845C8436B)
+04-15-16:02:44.4367 2624 CClientSession::OnClose:46 client(5)(192.168.1.88:10592) disconnected.
+04-15-16:03:06.1461 2624 CClientSession::OnRealEstablish:38 client(6)(192.168.1.88:10851) connected.
+04-15-16:03:06.1471 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(6) ask login(321)(9C43AAD86CAD459C9B3EDF5BA8DF1E10)
+04-15-16:03:27.6123 2624 CClientSession::OnClose:46 client(6)(192.168.1.88:10851) disconnected.
+04-15-16:05:31.9733 2624 CClientSession::OnRealEstablish:38 client(7)(192.168.1.88:10952) connected.
+04-15-16:05:31.9753 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(7) ask login(456)(6A836F2B5A0144CC85BF7AEB3D50B0E9)
+04-15-16:06:48.2124 2624 CClientSession::OnClose:46 client(7)(192.168.1.88:10952) disconnected.
+04-15-16:07:00.5692 2624 CClientSession::OnRealEstablish:38 client(8)(192.168.1.88:10983) connected.
+04-15-16:07:00.5712 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(8) ask login(654)(4E5D0BDF364C484684497B4DC5CF8DD2)
+04-15-16:07:42.7696 2624 CClientSession::OnClose:46 client(8)(192.168.1.88:10983) disconnected.
+04-15-16:07:53.5562 2624 CClientSession::OnRealEstablish:38 client(9)(192.168.1.88:11003) connected.
+04-15-16:07:53.5647 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(9) ask login(654)(FBF389EDDAFF4F8896A974937DE55C48)
+04-15-16:11:17.8254 2624 CClientSession::OnRealEstablish:38 client(10)(192.168.1.88:11132) connected.
+04-15-16:11:17.8294 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(10) ask login(321)(72924CF578D54B858F59375DC2CD27FE)
+04-15-16:11:37.8780 2624 CClientSession::OnClose:46 client(9)(192.168.1.88:11003) disconnected.
+04-15-16:11:54.5630 2624 CClientSession::OnRealEstablish:38 client(11)(192.168.1.88:11155) connected.
+04-15-16:11:54.5780 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(11) ask login(654)(0F1C8D1F4B7A4D3E9999EDB6ADAD9A82)
+04-15-16:12:51.5813 2624 CClientSession::OnClose:46 client(11)(192.168.1.88:11155) disconnected.
+04-15-16:13:17.5693 2624 CClientSession::OnRealEstablish:38 client(12)(192.168.1.88:11188) connected.
+04-15-16:13:17.5703 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(12) ask login(654)(BF084BA1B31B4840B6B8B4558BEA98C0)
+04-15-16:16:23.6116 2624 CClientSession::OnClose:46 client(12)(192.168.1.88:11188) disconnected.
+04-15-16:17:40.5073 2624 CClientSession::OnRealEstablish:38 client(13)(192.168.1.88:11359) connected.
+04-15-16:17:40.5373 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(13) ask login(654)(CD2A6ACE4A7A4D2EBEAA20118B0A1C31)
+04-15-16:19:27.1538 2624 CClientSession::OnClose:46 client(13)(192.168.1.88:11359) disconnected.
+04-15-16:19:50.5101 2624 CClientSession::OnRealEstablish:38 client(14)(192.168.1.88:11398) connected.
+04-15-16:19:50.5281 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(14) ask login(654)(2F50B1EC667C4F1EAA10AC6CDA116876)
+04-15-16:21:42.7702 2624 CClientSession::OnClose:46 client(14)(192.168.1.88:11398) disconnected.
+04-15-16:21:56.1153 2624 CClientSession::OnRealEstablish:38 client(15)(192.168.1.88:11448) connected.
+04-15-16:21:56.1323 2624 GateServer::CGSKernel::OnMsgFromGC:57 client(15) ask login(654)(ACFFFF2ECC094D65B028E06091C64592)
+04-15-18:01:16.0488 2624 CClientSession::OnClose:46 client(15)(192.168.1.88:11448) disconnected.
+04-15-18:01:37.9364 2624 CClientSession::OnClose:46 client(4)(192.168.1.88:10343) disconnected.
+04-15-18:01:48.3628 2624 CClientSession::OnClose:46 client(10)(192.168.1.88:11132) disconnected.

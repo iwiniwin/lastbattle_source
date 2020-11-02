@@ -1,0 +1,8 @@
+01-15-22:57:23.0887 3936 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!111--
+01-15-22:57:28.0950 3936 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:111, nickName:å¯‚è¾°å…¸ç‹±å®˜
+01-15-22:58:15.5947 3936 CentralServer::CCSBattle::CCSBattle:33 create battle(1)
+01-15-22:58:15.5977 3936 CentralServer::CCSBattle::CCSBattle:43 battle(1) add user(1001)
+01-15-23:10:13.3408 3936 CentralServer::CCSBattle::OnFinish:236 destory battle(1)
+01-15-23:10:13.3428 3936 CentralServer::CCSBattle::OnFinish:242 battle(1) remove user(1001)
+01-15-23:10:13.3458 3936 CentralServer::CCSUserBattleInfo::Clear:64 user(111) clear by reason(2)
+01-15-23:10:13.3478 3936 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 É¾³ýÍæ¼Ò!

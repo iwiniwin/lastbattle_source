@@ -1,0 +1,37 @@
+04-15-15:58:42.2451 204 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:21019==
+04-15-15:58:55.4475 204 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10009==
+04-15-15:58:56.8505 204 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10008==
+04-15-15:59:01.6509 204 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10007==
+04-15-15:59:16.8477 204 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:21023==
+04-15-15:59:16.8507 204 SceneServer::SSSolderSev::SetAltarBrokenAboutSuperSolder:43 shit , i can not find pathdid:1, altarIdx:108
+04-15-15:59:25.4498 204 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:21023==
+04-15-15:59:25.4538 204 SceneServer::SSSolderSev::SetAltarBrokenAboutSuperSolder:43 shit , i can not find pathdid:1, altarIdx:107
+04-15-15:59:43.7528 204 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:10009==
+04-15-15:59:50.9519 204 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:21021==
+04-15-15:59:50.9549 204 SceneServer::CSSGuideBattle::SetCaseDeadReasonInfo:304 guide GSToGC::GuideKillsInfo==>battleId:1, guid:60002, type:21021==
+04-15-15:59:50.9710 3344 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510
+04-15-16:01:22.7539 6752 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:02:42.1641 6752 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:02:57.4667 6752 SceneServer::CSSBattle::CheckPlayTimeout:409 all users offline, so finish it.
+04-15-16:02:57.4766 3344 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510
+04-15-16:06:48.2344 3344 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510
+04-15-16:06:48.2374 7872 SceneServer::CSSGuideBattle::CheckPlayTimeout:503 all users offline, so finish it.
+04-15-16:07:42.7956 3344 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510
+04-15-16:07:42.8526 8988 SceneServer::CSSGuideBattle::CheckPlayTimeout:503 all users offline, so finish it.
+04-15-16:10:17.3285 204 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:10:17.4319 204 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:11:28.4631 204 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:11:53.5582 204 SceneServer::CSSBattle::CheckPlayTimeout:409 all users offline, so finish it.
+04-15-16:11:53.5852 3344 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510
+04-15-16:13:04.2826 6752 SceneServer::CSSBattle::CheckPlayTimeout:409 all users offline, so finish it.
+04-15-16:13:04.3236 3344 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510
+04-15-16:15:03.6940 7872 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:17:51.1199 7872 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:18:55.7465 7872 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:18:58.7526 7872 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:20:11.6724 7872 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:20:31.4664 7872 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:21:04.8732 7872 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:26:29.1324 7872 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:30:41.8100 7872 SceneServer::CSSHero::ChangeCurHP:1641 Not Find killer hero.
+04-15-16:32:50.8858 3344 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:135 Not handle cs msgid:16510

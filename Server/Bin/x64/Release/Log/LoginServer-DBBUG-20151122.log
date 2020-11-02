@@ -1,0 +1,7 @@
+11-22-01:25:23.0937 19204 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49997, ReuseAddr 1
+11-22-01:25:23.0942 19204 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49996, ReuseAddr 1
+11-22-01:25:38.0146 19204 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:aaa(2), sessionid:a, platform:0
+11-22-01:25:38.0211 19204 SdkConnector::Update:610 Add uid:aaa, sessionid:0aaa
+11-22-01:25:38.0221 19204 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+
+11-22-01:21:19.8514 34592 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:aaa

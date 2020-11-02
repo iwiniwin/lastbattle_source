@@ -1,0 +1,19 @@
+05-19-18:51:53.7481 8752 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:40001, ReuseAddr 1
+05-19-18:51:54.8529 8752 CM2CSession::Msg_Handle_Init:77 m_un32MaxSSNum:15
+05-19-18:54:13.0270 8752 CClientSession::OnRealEstablish:38 client(4)(192.168.1.88:29304) connected.
+05-19-18:54:13.0351 8752 GateServer::CGSKernel::OnMsgFromGC:57 client(4) ask login(123)(5413B619E894451A9BCACBE053C7CB53)
+05-19-18:55:02.8487 8752 CClientSession::OnClose:46 client(4)(192.168.1.88:29304) disconnected.
+05-19-18:55:17.6345 8752 CClientSession::OnRealEstablish:38 client(5)(192.168.1.88:29328) connected.
+05-19-18:55:17.6515 8752 GateServer::CGSKernel::OnMsgFromGC:57 client(5) ask login(321)(D940D7F31BF048B6840CDEA3BF985964)
+05-19-18:55:48.4301 8752 CClientSession::OnClose:46 client(5)(192.168.1.88:29328) disconnected.
+05-19-18:56:01.2456 8752 CClientSession::OnRealEstablish:38 client(6)(192.168.1.88:29342) connected.
+05-19-18:56:01.2626 8752 GateServer::CGSKernel::OnMsgFromGC:57 client(6) ask login(123321)(74FCA7BF925949B38DC9E07CA6721694)
+05-19-18:56:53.8574 8752 CClientSession::OnClose:46 client(6)(192.168.1.88:29342) disconnected.
+05-19-18:57:05.7289 8752 CClientSession::OnRealEstablish:38 client(7)(192.168.1.88:29363) connected.
+05-19-18:57:05.7409 8752 GateServer::CGSKernel::OnMsgFromGC:57 client(7) ask login(123321)(D867340E2C014A8CAD86DD2379D6DFD1)
+05-19-18:58:36.5991 8752 CClientSession::OnClose:46 client(7)(192.168.1.88:29363) disconnected.
+05-19-18:59:04.1111 8752 CClientSession::OnRealEstablish:38 client(8)(192.168.1.88:29411) connected.
+05-19-18:59:04.1231 8752 GateServer::CGSKernel::OnMsgFromGC:57 client(8) ask login(123321)(E336C59785834E8FA95DCEADDA6AB41D)
+05-19-19:03:56.6362 8752 CClientSession::OnClose:46 client(8)(192.168.1.88:29411) disconnected.
+05-19-19:03:57.0405 8752 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+05-19-19:03:57.6200 8752 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:20001

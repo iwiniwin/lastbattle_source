@@ -1,0 +1,7 @@
+01-28-06:43:24.8853 8092 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:40001, ReuseAddr 1
+01-28-06:43:25.8993 8092 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+01-28-06:43:26.9054 8092 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002
+01-28-06:43:35.9589 8092 CM2CSession::Msg_Handle_Init:77 m_un32MaxSSNum:15
+01-28-06:43:39.9591 8092 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:20001
+01-28-06:43:43.0343 8092 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49999
+01-28-06:43:46.9225 8092 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:10002

@@ -1,0 +1,11 @@
+06-11-14:13:00.0696 58752 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!123--
+06-11-14:13:00.0716 58752 CentralServer::CCSUserMgr::redisLoginCallBack:220 没有命中cache,所以查询数据库
+06-11-14:13:12.2843 58752 CentralServer::CCSUser::AskBuyGoods:505 购买花费金币2500，剩余:40
+06-11-14:13:17.4132 58752 CentralServer::CCSBattle::CCSBattle:33 create battle(1)
+06-11-14:13:17.4182 58752 CentralServer::CCSBattle::CCSBattle:43 battle(1) add user(1001)
+06-11-14:32:20.4610 58752 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+06-11-14:32:20.4629 58752 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+06-11-14:32:20.4658 58752 CentralServer::CCSBattle::OnFinish:236 destory battle(1)
+06-11-14:32:20.5098 58752 CentralServer::CCSBattle::OnFinish:242 battle(1) remove user(1001)
+06-11-14:32:20.5108 58752 CentralServer::CCSUserBattleInfo::Clear:64 user(123) clear by reason(2)
+06-11-14:32:20.5313 58752 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 删除玩家!

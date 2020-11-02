@@ -1,0 +1,109 @@
+04-15-15:48:38.6120 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!123--
+04-15-15:48:38.6270 8520 CentralServer::CCSUserMgr::redisLoginCallBack:220 没有命中cache,所以查询数据库
+04-15-15:51:34.3609 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(123) clear by reason(22)
+04-15-15:51:34.3629 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(123) clear by reason(33)
+04-15-15:54:40.5774 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!321--
+04-15-15:55:42.7445 8520 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:321, nickName:halilua
+04-15-15:56:34.1475 8520 CentralServer::CCSBattle::CCSBattle:33 create battle(1)
+04-15-15:56:34.1495 8520 CentralServer::CCSBattle::CCSBattle:43 battle(1) add user(3001)
+04-15-15:59:50.9630 8520 CentralServer::CCSBattle::OnFinish:236 destory battle(1)
+04-15-15:59:50.9650 8520 CentralServer::CCSBattle::OnFinish:242 battle(1) remove user(3001)
+04-15-15:59:50.9670 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(321) clear by reason(2)
+04-15-16:00:03.4468 8520 CentralServer::CCSUser::AskBuyGoods:505 购买花费金币2500，剩余:40
+04-15-16:00:07.3396 8520 CentralServer::CCSBattle::CCSBattle:33 create battle(2)
+04-15-16:00:07.3446 8520 CentralServer::CCSBattle::CCSBattle:43 battle(2) add user(3001)
+04-15-16:02:57.4716 8520 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+04-15-16:02:57.4736 8520 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+04-15-16:02:57.4776 8520 CentralServer::CCSBattle::OnFinish:236 destory battle(2)
+04-15-16:02:57.4796 8520 CentralServer::CCSBattle::OnFinish:242 battle(2) remove user(3001)
+04-15-16:02:57.4817 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(321) clear by reason(2)
+04-15-16:02:57.4836 8520 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 删除玩家!
+04-15-16:03:06.1471 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!321--
+04-15-16:03:16.7476 8520 CentralServer::CCSUser::AskBuyGoods:505 购买花费金币40，剩余:9
+04-15-16:05:31.9743 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!456--
+04-15-16:05:51.7171 8520 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:456, nickName:闃垮皵钀ㄦ柉
+04-15-16:06:08.5482 8520 CentralServer::CCSBattle::CCSBattle:33 create battle(3)
+04-15-16:06:08.5512 8520 CentralServer::CCSBattle::CCSBattle:43 battle(3) add user(4001)
+04-15-16:06:48.2214 8520 CentralServer::CCSBattle::OnFinish:236 destory battle(3)
+04-15-16:06:48.2274 8520 CentralServer::CCSBattle::OnFinish:242 battle(3) remove user(4001)
+04-15-16:06:48.2294 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(456) clear by reason(2)
+04-15-16:06:48.2334 8520 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 删除玩家!
+04-15-16:07:00.5722 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!654--
+04-15-16:07:10.4280 8520 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:654, nickName:King
+04-15-16:07:13.7689 8520 CentralServer::CCSBattle::CCSBattle:33 create battle(4)
+04-15-16:07:13.7709 8520 CentralServer::CCSBattle::CCSBattle:43 battle(4) add user(5001)
+04-15-16:07:42.7776 8520 CentralServer::CCSBattle::OnFinish:236 destory battle(4)
+04-15-16:07:42.7816 8520 CentralServer::CCSBattle::OnFinish:242 battle(4) remove user(5001)
+04-15-16:07:42.7846 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(654) clear by reason(2)
+04-15-16:07:42.7896 8520 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 删除玩家!
+04-15-16:07:53.5592 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!654--
+04-15-16:08:00.1459 8520 CentralServer::CCSUser::AskBuyGoods:505 购买花费金币2500，剩余:40
+04-15-16:08:03.3338 8520 CentralServer::CCSBattle::CCSBattle:33 create battle(5)
+04-15-16:08:03.3358 8520 CentralServer::CCSBattle::CCSBattle:43 battle(5) add user(5001)
+04-15-16:10:22.0861 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(123) clear by reason(22)
+04-15-16:10:22.0891 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(123) clear by reason(33)
+04-15-16:11:17.8274 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!321--
+04-15-16:11:53.5642 8520 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+04-15-16:11:53.5692 8520 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+04-15-16:11:53.5772 8520 CentralServer::CCSBattle::OnFinish:236 destory battle(5)
+04-15-16:11:53.5812 8520 CentralServer::CCSBattle::OnFinish:242 battle(5) remove user(5001)
+04-15-16:11:53.5842 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(654) clear by reason(2)
+04-15-16:11:53.5922 8520 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 删除玩家!
+04-15-16:11:54.5630 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!654--
+04-15-16:12:01.8744 8520 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:86 房间号1：开始时间Wed Apr 15 16:12:01 2015
+
+04-15-16:12:01.8774 8520 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:87 房间号1：至少2人时间Wed Apr 15 16:12:02 2015
+
+04-15-16:12:01.8824 8520 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:88 房间号1：至少3人时间Wed Apr 15 16:12:04 2015
+
+04-15-16:12:01.8834 8520 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:89 房间号1：至少4人时间Wed Apr 15 16:12:05 2015
+
+04-15-16:12:01.8854 8520 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:90 房间号1：至少5人时间Wed Apr 15 16:12:10 2015
+
+04-15-16:12:01.8884 8520 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:91 房间号1：结束时间Wed Apr 15 16:12:13 2015
+
+04-15-16:12:03.0258 8520 CCSMatchRoom_Nomal::Update:165 房间号1：跳转时间Wed Apr 15 16:12:03 2015
+
+04-15-16:12:05.0361 8520 CCSMatchRoom_Nomal::Update:165 房间号1：跳转时间Wed Apr 15 16:12:05 2015
+
+04-15-16:12:06.0394 8520 CCSMatchRoom_Nomal::Update:165 房间号1：跳转时间Wed Apr 15 16:12:06 2015
+
+04-15-16:12:11.0594 8520 CCSMatchRoom_Nomal::Update:165 房间号1：跳转时间Wed Apr 15 16:12:11 2015
+
+04-15-16:12:14.0789 8520 CCSMatchRoom_Nomal::Update:165 房间号1：跳转时间Wed Apr 15 16:12:14 2015
+
+04-15-16:12:14.1810 8520 CentralServer::CCSBattle::CCSBattle:33 create battle(6)
+04-15-16:12:14.1920 8520 CentralServer::CCSBattle::CCSBattle:43 battle(6) add user(5001)
+04-15-16:13:04.2896 8520 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+04-15-16:13:04.2936 8520 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+04-15-16:13:04.3186 8520 CentralServer::CCSBattle::OnFinish:236 destory battle(6)
+04-15-16:13:04.3216 8520 CentralServer::CCSBattle::OnFinish:242 battle(6) remove user(5001)
+04-15-16:13:04.3256 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(654) clear by reason(2)
+04-15-16:13:04.3307 8520 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 删除玩家!
+04-15-16:13:17.5713 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!654--
+04-15-16:13:26.7587 8520 CentralServer::CCSBattle::CCSBattle:33 create battle(7)
+04-15-16:13:26.7607 8520 CentralServer::CCSBattle::CCSBattle:43 battle(7) add user(2001)
+04-15-16:13:26.7847 8520 CentralServer::CCSBattle::CCSBattle:43 battle(7) add user(3001)
+04-15-16:13:26.7917 8520 CentralServer::CCSBattle::CCSBattle:43 battle(7) add user(5001)
+04-15-16:17:40.5113 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!654--
+04-15-16:19:50.5111 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!654--
+04-15-16:21:56.1193 8520 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!654--
+04-15-16:32:50.7847 8520 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+04-15-16:32:50.8077 8520 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+04-15-16:32:50.8407 8520 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+04-15-16:32:50.8427 8520 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+04-15-16:32:50.8487 8520 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+04-15-16:32:50.8497 8520 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+04-15-16:32:50.8597 8520 CentralServer::CCSBattle::OnFinish:236 destory battle(7)
+04-15-16:32:50.8657 8520 CentralServer::CCSBattle::OnFinish:242 battle(7) remove user(2001)
+04-15-16:32:50.8717 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(123) clear by reason(2)
+04-15-16:32:50.8747 8520 CentralServer::CCSBattle::OnFinish:242 battle(7) remove user(3001)
+04-15-16:32:50.8828 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(321) clear by reason(2)
+04-15-16:32:50.8898 8520 CentralServer::CCSBattle::OnFinish:242 battle(7) remove user(5001)
+04-15-16:32:50.8978 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(654) clear by reason(2)
+04-15-16:33:09.5097 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(654) clear by reason(22)
+04-15-16:33:09.5147 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(654) clear by reason(33)
+04-15-16:33:12.7124 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(321) clear by reason(22)
+04-15-16:33:12.7154 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(321) clear by reason(33)
+04-15-16:33:19.2496 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(123) clear by reason(22)
+04-15-16:33:19.2516 8520 CentralServer::CCSUserBattleInfo::Clear:64 user(123) clear by reason(33)

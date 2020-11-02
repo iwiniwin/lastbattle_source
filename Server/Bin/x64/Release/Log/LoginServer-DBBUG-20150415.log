@@ -1,0 +1,53 @@
+04-15-19:26:51.2094 4272 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49997, ReuseAddr 1
+04-15-19:26:52.0650 4272 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49996, ReuseAddr 1
+04-15-15:47:25.4550 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:321(2), sessionid:123, platform:0
+04-15-15:47:25.4670 1328 SdkConnector::Update:610 Add uid:321, sessionid:0321
+04-15-15:47:25.4670 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-15:48:34.3530 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:123(3), sessionid:123, platform:0
+04-15-15:48:34.3550 1328 SdkConnector::Update:610 Add uid:123, sessionid:0123
+04-15-15:48:34.3570 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-15:48:38.5790 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:123
+04-15-15:54:39.0003 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:321(4), sessionid:123, platform:0
+04-15-15:54:39.0033 1328 SdkConnector::Update:610 Add uid:321, sessionid:0321
+04-15-15:54:39.0053 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-15:54:40.4363 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:321
+04-15-16:03:03.2240 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:321(5), sessionid:123, platform:0
+04-15-16:03:03.2270 1328 SdkConnector::Update:610 Add uid:321, sessionid:0321
+04-15-16:03:03.2280 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-16:03:06.0290 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:321
+04-15-16:05:10.0224 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:456(6), sessionid:123, platform:0
+04-15-16:05:10.0255 1328 SdkConnector::Update:610 Add uid:456, sessionid:0456
+04-15-16:05:10.0275 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-16:05:31.9253 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:456
+04-15-16:06:59.5795 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:654(7), sessionid:123, platform:0
+04-15-16:06:59.5895 1328 SdkConnector::Update:610 Add uid:654, sessionid:0654
+04-15-16:06:59.5915 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-16:07:00.5241 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:654
+04-15-16:07:52.6138 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:654(8), sessionid:123, platform:0
+04-15-16:07:52.6178 1328 SdkConnector::Update:610 Add uid:654, sessionid:0654
+04-15-16:07:52.6198 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-16:07:53.5171 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:654
+04-15-16:11:16.5286 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:321(9), sessionid:123, platform:0
+04-15-16:11:16.5346 1328 SdkConnector::Update:610 Add uid:321, sessionid:0321
+04-15-16:11:16.5386 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-16:11:17.6733 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:321
+04-15-16:11:53.5862 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:654(10), sessionid:123, platform:0
+04-15-16:11:53.5942 1328 SdkConnector::Update:610 Add uid:654, sessionid:0654
+04-15-16:11:53.5966 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-16:11:54.5230 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:654
+04-15-16:13:09.4209 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:654(11), sessionid:123, platform:0
+04-15-16:13:09.4249 1328 SdkConnector::Update:610 Add uid:654, sessionid:0654
+04-15-16:13:09.4309 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-16:13:17.5315 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:654
+04-15-16:17:38.4117 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:654(12), sessionid:123, platform:0
+04-15-16:17:38.4277 1328 SdkConnector::Update:610 Add uid:654, sessionid:0654
+04-15-16:17:38.4367 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-16:17:40.4513 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:654
+04-15-16:19:47.6569 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:654(13), sessionid:123, platform:0
+04-15-16:19:47.6639 1328 SdkConnector::Update:610 Add uid:654, sessionid:0654
+04-15-16:19:47.6729 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-16:19:50.4668 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:654
+04-15-16:21:54.4724 1328 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:654(14), sessionid:123, platform:0
+04-15-16:21:54.4764 1328 SdkConnector::Update:610 Add uid:654, sessionid:0654
+04-15-16:21:54.4804 1328 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+04-15-16:21:56.0722 1328 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:654

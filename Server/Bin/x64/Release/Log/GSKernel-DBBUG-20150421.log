@@ -1,0 +1,4 @@
+04-21-10:38:16.2263 55688 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:40001, ReuseAddr 1
+04-21-10:38:16.7317 55688 CM2CSession::Msg_Handle_Init:77 m_un32MaxSSNum:15
+04-21-10:38:52.3873 55688 CClientSession::OnRealEstablish:38 client(4)(192.168.237.1:30268) connected.
+04-21-10:38:52.3893 55688 GateServer::CGSKernel::OnMsgFromGC:57 client(4) ask login(123)(20378D0F30844C31BB541ED3FC1F4661)

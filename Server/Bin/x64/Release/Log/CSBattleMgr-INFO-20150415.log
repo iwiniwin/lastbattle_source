@@ -1,0 +1,20 @@
+04-15-19:26:49.6293 4928 CentralServer::CCSCfgMgr::LoadFilterWordsCfg:1950 Success!
+04-15-19:26:50.2267 4928 CentralServer::CCSCfgMgr::LoadAiRobotName:2130 LoadAiRobotName Success!
+04-15-19:26:50.2678 4928 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+04-15-19:26:50.3258 4928 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+04-15-19:26:50.4579 4928 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+04-15-19:26:50.4749 4928 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+04-15-19:26:50.4819 4928 CentralServer::CCSKernel::Start:169 success!
+04-15-19:26:52.8476 4928 CCSLogSession::SendInitData:26  LogServer Connected, try to register me.
+04-15-19:26:52.8716 4928 CCSLogSession::OnClose:34 DisConnect.
+04-15-19:26:52.8736 4928 CRedisSession::SendInitData:23 连接上Redis
+04-15-19:26:52.8746 4928 CLogicRedisSession::SendInitData:14 连接上Redis
+04-15-19:26:52.8786 4928 CCSLogSession::SendInitData:26  LogServer Connected, try to register me.
+04-15-19:26:52.8826 4928 CCSLogSession::OnClose:34 DisConnect.
+04-15-19:27:01.0194 4928 CGateSession::OnRealEstablish:57 GS(30001) Connected
+04-15-19:27:01.4837 4928 CSceneSession::OnRealEstablish:60 SS(20001) Connected
+04-15-19:27:01.4937 4928 CentralServer::CCSBattleMgr::PostMsgToSS_NotifyGameLogSwitch:570 -------cs send switch to ss ok------------
+04-15-19:27:02.8818 4928 CCSLogSession::SendInitData:26  LogServer Connected, try to register me.
+er:3001 to User:2001 SNS As type:1.
+04-15-16:37:07.1210 8520 CentralServer::CCSUser::PostMsgToGC_MsgFromUser:229 nickname:halilua, length:7, MsgLength:6.
+04-15-16:37:20.2286 8520 CentralServer::CCSUser::PostMsgToGC_MsgFromUser:229 nickname:xxxx, length:4, MsgLength:6.

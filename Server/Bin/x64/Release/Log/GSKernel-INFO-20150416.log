@@ -1,0 +1,22 @@
+04-16-09:22:14.0171 9176 GateServer::CGSKernel::Initialize:107 CGSKernel Initialize success
+04-16-09:22:14.5605 9176 CM2CSession::SendInitData:34 CS Connected, try to register me.
+04-16-09:22:14.5615 9176 CM2BSession::SendInitData:33 BS Connected, try to register me.
+04-16-09:22:14.5625 9176 CM2BSession::OnRealEstablish:42 BS Connected and register ok.
+04-16-09:22:14.5645 9176 CM2CSession::OnRealEstablish:46 CS Connected and register ok
+04-16-09:22:14.5665 9176 CM2SSession::SendInitData:36 SS(20001) Connected, try to register me.
+04-16-09:22:14.5715 9176 CM2SSession::Msg_Handle_Init:92 register to SS 20001 success at session 3.
+04-16-09:22:14.5725 9176 CM2SSession::OnRealEstablish:52 SS(20001) Connected and register ok.
+04-16-09:22:14.6375 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+04-16-09:24:54.6810 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 3.
+04-16-09:27:34.7270 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 4.
+04-16-09:30:14.7568 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 4.
+04-16-09:32:54.8333 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 4.
+04-16-09:35:34.9253 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+04-16-09:38:15.0150 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 4.
+04-16-09:40:55.0757 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+04-16-09:43:35.1006 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 3.
+04-16-09:46:15.1114 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 4.
+04-16-09:48:55.1701 9176 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+04-16-09:50:32.3646 9176 CM2CSession::OnClose:52 CS DisConnect.
+04-16-09:50:32.5627 9176 CM2SSession::OnClose:64 SS(20001) DisConnect.
+04-16-09:50:32.8289 9176 CM2BSession::OnClose:47 BS DisConnect.

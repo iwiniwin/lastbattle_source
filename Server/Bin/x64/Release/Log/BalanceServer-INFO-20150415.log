@@ -1,0 +1,8 @@
+04-15-19:26:52.4473 584 CB2LSession::SendInitData:29 LS Connected, try to register me.
+04-15-19:26:52.7966 584 CB2LSession::OnRealEstablish:36 LS Connected and register ok
+04-15-19:27:01.5228 584 CGateSession::OnRealEstablish:36 GS(30001) Connected.
+k
+44 CB2LSession::SendInitData:29 LS Connected, try to register me.
+04-15-15:45:00.4681 9844 CB2LSession::OnClose:41 LS DisConnect.
+04-15-15:45:10.4342 9844 CB2LSession::SendInitData:29 LS Connected, try to register me.
+04-15-15:45:10.4382 9844 CB2LSession::OnRealEstablish:36 LS Connected and register ok

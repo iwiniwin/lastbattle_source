@@ -1,0 +1,32 @@
+01-28-06:43:26.9324 11864 CentralServer::CCSCfgMgr::LoadNewSkillCfg:815 Load 268 Skill cfg.
+01-28-06:43:27.1724 11864 CentralServer::CCSCfgMgr::LoadSkillModelAccountCfg:905 Load 322 Skill cfg.
+01-28-06:43:27.2464 11864 CentralServer::CCSCfgMgr::LoadSkillModelEmitCfg:1023 Load 96 Skill cfg.
+01-28-06:43:27.2864 11864 CentralServer::CCSCfgMgr::LoadSkillModelRangeCfg:1098 Load 123 Skill cfg.
+01-28-06:43:27.3104 11864 CentralServer::CCSCfgMgr::LoadSkillModelLeadingCfg:959  Load 17 Skill cfg.
+01-28-06:43:27.4414 11864 CentralServer::CCSCfgMgr::LoadSkillModelBufCfg:1183  Load 302 Skill cfg.
+01-28-06:43:27.4654 11864 CentralServer::CCSCfgMgr::LoadSkillModelSummonCfg:1288  Load 5 Skill cfg.
+01-28-06:43:27.4794 11864 CentralServer::CCSCfgMgr::LoadSkillModelMoveCfg:1355  Load 26 Skill cfg.
+01-28-06:43:27.4824 11864 CentralServer::CCSCfgMgr::LoadSkillModelSwitchCfg:1414  Load 26 Skill cfg.
+01-28-06:43:27.4974 11864 CentralServer::CCSCfgMgr::LoadSkillModelPurifactionCfg:1477  Load 1 Skill cfg.
+01-28-06:43:27.5084 11864 CentralServer::CCSCfgMgr::LoadSkillModelLinkCfg:1542  Load 1 Skill cfg.
+01-28-06:43:27.5554 11864 CentralServer::CCSCfgMgr::LoadPassitiveSkillCfg:1635  Load 126 Skill cfg.
+01-28-06:43:27.5824 11864 CentralServer::CCSCfgMgr::LoadPassitiveEffectBloodSeekCfg:1682  Load 6 Skill cfg.
+01-28-06:43:27.5974 11864 CentralServer::CCSCfgMgr::LoadPassitiveEffectReboundCfg:1729  Load 4 Skill cfg.
+01-28-06:43:27.6024 11864 CentralServer::CCSCfgMgr::LoadPassitiveEffectReliveCfg:1777 Load 1 Skill cfg.
+01-28-06:43:27.6564 11864 CentralServer::CCSCfgMgr::LoadNPCCfg:224 Load 52 NPC cfg.
+01-28-06:43:27.6884 11864 CentralServer::CCSCfgMgr::LoadHeroCfg:353  Load 22 hero cfg.
+01-28-06:43:27.7494 11864 CentralServer::CCSCfgMgr::LoadGoodsCfg:628 Load 103 goods cfg.
+01-28-06:43:27.7524 11864 CentralServer::CCSCfgMgr::LoadShopCfg:710 Load 3 shop cfg.
+01-28-06:43:27.7924 11864 CentralServer::CCSCfgMgr::LoadMapCfg:419  load 4 map.
+01-28-06:43:27.8194 11864 CentralServer::CCSCfgMgr::LoadHeroChooseCfg:1998 Load 22 herochoose cfg.
+01-28-06:43:27.8714 11864 CentralServer::CCSCfgMgr::LoadRobotAICfg:2058 Load 609 RobotAI cfg.
+01-28-06:43:27.9064 11864 CentralServer::CCSCfgMgr::LoadRobotAIPathCfg:2107 Load 197 RobotAI cfg.
+01-28-06:43:28.0194 11864 CentralServer::CCSCfgMgr::LoadRunesCfg:101 Load 75 runes cfg.
+01-28-06:43:28.0444 11864 CentralServer::CCSCfgMgr::LoadRunesSlotCfg:345 Load 19 runesslot cfg.
+01-28-06:43:28.0774 11864 CentralServer::CCSCfgMgr::LoadHeroBuyCfg:466 Load 63 hero buy cfg.
+01-28-06:43:28.0854 11864 CentralServer::CCSCfgMgr::LoadDiscountCfg:527 Load 0 discount cfg.
+01-28-06:43:28.1444 11864 CentralServer::CCSCfgMgr::LoadHotAndNewGoodsCfg:777 Load NewCfg:1 and HotCfg:1
+01-28-06:43:28.3355 11864 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:10002, ReuseAddr 1
+01-28-06:43:28.3395 11864 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:10001, ReuseAddr 1
+01-28-06:43:28.3435 11864 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:10010, ReuseAddr 1
+01-28-06:43:28.5075 11864 CentralServer::CCSUserMgr::SynHandleAllAccountCallback:445 Load maxguid 1

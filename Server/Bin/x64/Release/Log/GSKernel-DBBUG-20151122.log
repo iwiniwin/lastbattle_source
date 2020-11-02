@@ -1,0 +1,5 @@
+11-22-01:25:23.0672 19236 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:40001, ReuseAddr 1
+11-22-01:25:24.0611 19236 CM2CSession::Msg_Handle_Init:77 m_un32MaxSSNum:15
+11-22-01:21:19.8995 34336 CClientSession::OnRealEstablish:38 client(4)(192.168.199.1:16485) connected.
+11-22-01:21:19.9020 34336 GateServer::CGSKernel::OnMsgFromGC:57 client(4) ask login(aaa)(2E7918011CE44338B529B891E708A721)
+11-22-01:23:47.3233 34336 CClientSession::OnClose:46 client(4)(192.168.199.1:16485) disconnected.

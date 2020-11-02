@@ -1,0 +1,36 @@
+01-15-22:57:03.6476 6828 GateServer::CGSKernel::Initialize:107 CGSKernel Initialize success
+01-15-22:57:04.1557 6828 CM2CSession::SendInitData:34 CS Connected, try to register me.
+01-15-22:57:04.1567 6828 CM2BSession::SendInitData:33 BS Connected, try to register me.
+01-15-22:57:04.1607 6828 CM2CSession::OnRealEstablish:46 CS Connected and register ok
+01-15-22:57:04.1617 6828 CM2BSession::OnRealEstablish:42 BS Connected and register ok.
+01-15-22:57:04.2327 6828 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:57:04.5137 6828 CM2SSession::SendInitData:36 SS(20001) Connected, try to register me.
+01-15-22:57:04.5217 6828 CM2SSession::Msg_Handle_Init:92 register to SS 20001 success at session 3.
+01-15-22:57:04.5257 6828 CM2SSession::OnRealEstablish:52 SS(20001) Connected and register ok.
+01-15-22:59:44.2358 6828 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-23:02:24.2360 6828 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-23:05:04.2371 6828 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-23:07:44.2373 6828 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-23:10:24.2414 6828 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-23:13:04.2416 6828 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-23:13:41.1537 6828 CM2BSession::OnClose:47 BS DisConnect.
+ngRet:41 Ping CS returned, tick span 2.
+01-15-22:16:40.1600 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:19:20.1672 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:22:00.2163 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:24:40.2155 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 1.
+01-15-22:27:20.2166 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:30:00.2168 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:32:40.2179 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:35:20.2171 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:38:00.2172 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:40:40.2174 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:43:20.2175 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:46:00.2247 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:48:40.2248 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:51:20.2260 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:54:00.2301 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:56:40.2333 6784 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-15-22:57:01.7185 6784 CM2CSession::OnClose:52 CS DisConnect.
+01-15-22:57:01.8595 6784 CM2SSession::OnClose:64 SS(20001) DisConnect.
+01-15-22:57:02.1125 6784 CM2BSession::OnClose:47 BS DisConnect.

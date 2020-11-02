@@ -1,0 +1,2 @@
+06-11-14:13:00.0296 61780 CClientSession::MSG_OneClientLogin:58 user(123)(321)(3) ask login bs
+06-11-14:13:00.0336 61780 CB2LSession::Msg_User_Login:61 user(123)(321)(3) ask login ret

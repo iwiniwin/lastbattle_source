@@ -1,0 +1,10 @@
+02-05-21:38:35.8100 6896 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!wyy--
+02-05-21:38:35.8130 6896 CentralServer::CCSUserMgr::redisLoginCallBack:220 没有命中cache,所以查询数据库
+02-05-21:38:51.6109 6896 CentralServer::CCSUser::AskBuyGoods:505 购买花费金币2500，剩余:40
+02-05-21:39:01.0334 6896 CentralServer::CCSBattle::CCSBattle:33 create battle(1)
+02-05-21:39:01.0364 6896 CentralServer::CCSBattle::CCSBattle:43 battle(1) add user(2001)
+02-05-21:55:29.3570 6896 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+02-05-21:55:29.3610 6896 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+02-05-21:55:29.3660 6896 CentralServer::CCSBattle::OnFinish:236 destory battle(1)
+02-05-21:55:29.3670 6896 CentralServer::CCSBattle::OnFinish:242 battle(1) remove user(2001)
+02-05-21:55:29.3700 6896 CentralServer::CCSUserBattleInfo::Clear:64 user(wyy) clear by reason(2)

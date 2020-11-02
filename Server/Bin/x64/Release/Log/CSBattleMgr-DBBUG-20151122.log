@@ -1,0 +1,59 @@
+11-22-01:42:36.8702 4800 CentralServer::CCSCfgMgr::LoadNewSkillCfg:815 Load 268 Skill cfg.
+11-22-01:42:39.1083 4800 CentralServer::CCSCfgMgr::LoadSkillModelAccountCfg:905 Load 322 Skill cfg.
+11-22-01:42:39.8610 4800 CentralServer::CCSCfgMgr::LoadSkillModelEmitCfg:1023 Load 96 Skill cfg.
+11-22-01:42:40.6138 4800 CentralServer::CCSCfgMgr::LoadSkillModelRangeCfg:1098 Load 123 Skill cfg.
+11-22-01:42:40.6578 4800 CentralServer::CCSCfgMgr::LoadSkillModelLeadingCfg:959  Load 17 Skill cfg.
+11-22-01:42:41.4212 4800 CentralServer::CCSCfgMgr::LoadSkillModelBufCfg:1183  Load 302 Skill cfg.
+11-22-01:42:41.5023 4800 CentralServer::CCSCfgMgr::LoadSkillModelSummonCfg:1288  Load 5 Skill cfg.
+11-22-01:42:41.5483 4800 CentralServer::CCSCfgMgr::LoadSkillModelMoveCfg:1355  Load 26 Skill cfg.
+11-22-01:42:41.5513 4800 CentralServer::CCSCfgMgr::LoadSkillModelSwitchCfg:1414  Load 26 Skill cfg.
+11-22-01:42:41.5543 4800 CentralServer::CCSCfgMgr::LoadSkillModelPurifactionCfg:1477  Load 1 Skill cfg.
+11-22-01:42:41.5573 4800 CentralServer::CCSCfgMgr::LoadSkillModelLinkCfg:1542  Load 1 Skill cfg.
+11-22-01:42:42.9141 4800 CentralServer::CCSCfgMgr::LoadPassitiveSkillCfg:1635  Load 126 Skill cfg.
+11-22-01:42:42.9391 4800 CentralServer::CCSCfgMgr::LoadPassitiveEffectBloodSeekCfg:1682  Load 6 Skill cfg.
+11-22-01:42:42.9421 4800 CentralServer::CCSCfgMgr::LoadPassitiveEffectReboundCfg:1729  Load 4 Skill cfg.
+11-22-01:42:42.9441 4800 CentralServer::CCSCfgMgr::LoadPassitiveEffectReliveCfg:1777 Load 1 Skill cfg.
+11-22-01:42:43.5034 4800 CentralServer::CCSCfgMgr::LoadNPCCfg:224 Load 52 NPC cfg.
+11-22-01:42:43.6636 4800 CentralServer::CCSCfgMgr::LoadHeroCfg:353  Load 22 hero cfg.
+11-22-01:42:44.2221 4800 CentralServer::CCSCfgMgr::LoadGoodsCfg:628 Load 103 goods cfg.
+11-22-01:42:44.2341 4800 CentralServer::CCSCfgMgr::LoadShopCfg:710 Load 3 shop cfg.
+11-22-01:42:44.2361 4800 CentralServer::CCSCfgMgr::LoadMapCfg:419  load 4 map.
+11-22-01:42:44.2566 4800 CentralServer::CCSCfgMgr::LoadHeroChooseCfg:1998 Load 22 herochoose cfg.
+11-22-01:42:44.7857 4800 CentralServer::CCSCfgMgr::LoadRobotAICfg:2058 Load 609 RobotAI cfg.
+11-22-01:42:45.0160 4800 CentralServer::CCSCfgMgr::LoadRobotAIPathCfg:2107 Load 197 RobotAI cfg.
+11-22-01:42:45.1061 4800 CentralServer::CCSCfgMgr::LoadRunesCfg:101 Load 75 runes cfg.
+11-22-01:42:45.1131 4800 CentralServer::CCSCfgMgr::LoadRunesSlotCfg:345 Load 19 runesslot cfg.
+11-22-01:42:45.1641 4800 CentralServer::CCSCfgMgr::LoadHeroBuyCfg:466 Load 63 hero buy cfg.
+11-22-01:42:45.1681 4800 CentralServer::CCSCfgMgr::LoadDiscountCfg:527 Load 0 discount cfg.
+11-22-01:42:45.1731 4800 CentralServer::CCSCfgMgr::LoadHotAndNewGoodsCfg:777 Load NewCfg:1 and HotCfg:1
+Load NewCfg:1 and HotCfg:1
+11-22-01:25:23.6348 35904 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:10002, ReuseAddr 1
+11-22-01:25:23.6368 35904 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:10001, ReuseAddr 1
+11-22-01:25:23.6398 35904 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:10010, ReuseAddr 1
+11-22-01:25:23.6408 35904 CentralServer::CCSUserMgr::SynHandleAllAccountCallback:445 Load maxguid 1
+1:19.9591 35872 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:70 Update User 1001   to db
+11-22-01:21:44.6633 35872 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:70 Update User 1001   to db
+11-22-01:23:48.1216 35872 CentralServer::CCSUserMgr::DBAsynUpdateUserCallback:70 Update User 1001   to db
+nectErr:Address:127.0.0.1:6380
+11-22-00:19:14.8778 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:19:19.4239 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380
+11-22-00:19:24.8908 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:19:29.4350 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380
+11-22-00:19:34.9041 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:19:39.4524 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380
+11-22-00:19:44.9209 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:19:49.4670 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380
+11-22-00:19:54.9366 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:19:59.4858 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380
+11-22-00:20:04.9538 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:20:09.5000 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380
+11-22-00:20:14.9678 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:20:19.5156 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380
+11-22-00:20:24.9824 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:20:29.5301 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380
+11-22-00:20:34.9989 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:20:39.5441 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380
+11-22-00:20:45.0142 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:20:49.5638 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380
+11-22-00:20:55.0291 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+11-22-00:20:59.5763 4624 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:6380

@@ -1,0 +1,12 @@
+01-28-06:43:24.8473 8092 GateServer::CGSKernel::Initialize:107 CGSKernel Initialize success
+01-28-06:43:25.4003 8092 CM2BSession::SendInitData:33 BS Connected, try to register me.
+01-28-06:43:25.4023 8092 CM2BSession::OnRealEstablish:42 BS Connected and register ok.
+01-28-06:43:35.9439 8092 CM2CSession::SendInitData:34 CS Connected, try to register me.
+01-28-06:43:35.9599 8092 CM2CSession::OnRealEstablish:46 CS Connected and register ok
+01-28-06:43:35.9619 8092 CM2SSession::SendInitData:36 SS(20001) Connected, try to register me.
+01-28-06:43:35.9669 8092 CM2SSession::Msg_Handle_Init:92 register to SS 20001 success at session 3.
+01-28-06:43:35.9679 8092 CM2SSession::OnRealEstablish:52 SS(20001) Connected and register ok.
+01-28-06:43:36.0009 8092 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+01-28-06:43:38.9651 8092 CM2SSession::OnClose:64 SS(20001) DisConnect.
+01-28-06:43:39.6761 8092 CM2CSession::OnClose:52 CS DisConnect.
+01-28-06:43:42.0322 8092 CM2BSession::OnClose:47 BS DisConnect.

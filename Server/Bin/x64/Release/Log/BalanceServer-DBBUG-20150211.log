@@ -1,0 +1,3 @@
+02-11-21:21:01.1582 5088 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49999, ReuseAddr 1
+02-11-21:21:01.1622 5088 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49998, ReuseAddr 1
+02-11-21:21:02.1492 5088 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49997

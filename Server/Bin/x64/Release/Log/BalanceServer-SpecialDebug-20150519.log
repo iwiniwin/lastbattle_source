@@ -1,0 +1,10 @@
+05-19-18:54:12.9820 42352 CClientSession::MSG_OneClientLogin:58 user(123)(123)(3) ask login bs
+05-19-18:54:12.9880 42352 CB2LSession::Msg_User_Login:61 user(123)(123)(3) ask login ret
+05-19-18:55:17.5944 42352 CClientSession::MSG_OneClientLogin:58 user(321)(123)(4) ask login bs
+05-19-18:55:17.6004 42352 CB2LSession::Msg_User_Login:61 user(321)(123)(4) ask login ret
+05-19-18:56:01.2016 42352 CClientSession::MSG_OneClientLogin:58 user(123321)(123321)(5) ask login bs
+05-19-18:56:01.2096 42352 CB2LSession::Msg_User_Login:61 user(123321)(123321)(5) ask login ret
+05-19-18:57:05.6888 42352 CClientSession::MSG_OneClientLogin:58 user(123321)(123321)(6) ask login bs
+05-19-18:57:05.6959 42352 CB2LSession::Msg_User_Login:61 user(123321)(123321)(6) ask login ret
+05-19-18:59:04.0741 42352 CClientSession::MSG_OneClientLogin:58 user(123321)(123321)(7) ask login bs
+05-19-18:59:04.0791 42352 CB2LSession::Msg_User_Login:61 user(123321)(123321)(7) ask login ret

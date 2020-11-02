@@ -1,0 +1,4 @@
+01-15-22:57:04.2387 6652 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+01-15-22:57:04.2407 6652 CLogHandler::Init:70 Init Success!
+-15-22:57:01.7185 284 CClientSession::OnClose:35 
+01-15-22:57:01.8595 284 CClientSession::OnClose:35 

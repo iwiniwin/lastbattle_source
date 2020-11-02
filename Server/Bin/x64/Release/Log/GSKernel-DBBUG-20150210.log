@@ -1,0 +1,7 @@
+02-10-21:51:03.3891 10948 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:40001, ReuseAddr 1
+02-10-21:51:03.3971 10948 CM2CSession::Msg_Handle_Init:77 m_un32MaxSSNum:15
+02-10-21:51:04.3762 10948 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49999
+02-10-21:51:05.3983 10948 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49999
+02-10-21:52:51.7523 10948 CClientSession::OnRealEstablish:38 client(4)(192.168.0.110:35518) connected.
+02-10-21:52:51.7553 10948 GateServer::CGSKernel::OnMsgFromGC:57 client(4) ask login(abc)(4138B0FF09D94805B7D478C9385CE010)
+02-10-21:57:41.7909 10948 CClientSession::OnClose:46 client(4)(192.168.0.110:35518) disconnected.

@@ -1,0 +1,15 @@
+01-15-22:57:04.0366 6800 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49997, ReuseAddr 1
+01-15-22:57:04.0376 6800 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49996, ReuseAddr 1
+01-15-22:57:21.2316 6800 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:111(2), sessionid:123, platform:0
+01-15-22:57:21.2426 6800 SdkConnector::Update:610 Add uid:111, sessionid:0111
+01-15-22:57:21.2436 6800 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+01-15-22:57:23.0487 6800 CBalanceSession::Msg_Handle_OneClientLoginCheck:104 Erase uid:111
+sionid:123, platform:0
+01-15-22:48:09.0180 4024 SdkConnector::Update:610 Add uid:wyy, sessionid:0wyy
+01-15-22:48:09.0210 4024 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+01-15-22:49:10.0405 4024 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:wyy(4), sessionid:123, platform:0
+01-15-22:49:10.0445 4024 SdkConnector::Update:610 Add uid:wyy, sessionid:0wyy
+01-15-22:49:10.0455 4024 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.
+01-15-22:54:30.8749 4024 SDKAsynHandler::CheckLogin:690 GC Try To Login with uin:111(5), sessionid:123, platform:0
+01-15-22:54:30.8789 4024 SdkConnector::Update:610 Add uid:111, sessionid:0111
+01-15-22:54:30.8809 4024 SdkConnector::PostMsgToGC_NotifyServerList:713 Post Server List To User.

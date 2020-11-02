@@ -1,0 +1,2 @@
+04-21-10:38:52.3513 53864 CClientSession::MSG_OneClientLogin:58 user(123)(123)(3) ask login bs
+04-21-10:38:52.3553 53864 CB2LSession::Msg_User_Login:61 user(123)(123)(3) ask login ret

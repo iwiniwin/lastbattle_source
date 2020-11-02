@@ -1,0 +1,23 @@
+02-10-21:51:03.3871 10948 GateServer::CGSKernel::Initialize:107 CGSKernel Initialize success
+02-10-21:51:03.3951 10948 CM2CSession::SendInitData:34 CS Connected, try to register me.
+02-10-21:51:03.3981 10948 CM2CSession::OnRealEstablish:46 CS Connected and register ok
+02-10-21:51:03.4001 10948 CM2SSession::SendInitData:36 SS(20001) Connected, try to register me.
+02-10-21:51:03.4051 10948 CM2SSession::Msg_Handle_Init:92 register to SS 20001 success at session 3.
+02-10-21:51:03.4061 10948 CM2SSession::OnRealEstablish:52 SS(20001) Connected and register ok.
+02-10-21:51:03.4732 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-10-21:51:14.3878 10948 CM2BSession::SendInitData:33 BS Connected, try to register me.
+02-10-21:51:14.3918 10948 CM2BSession::OnRealEstablish:42 BS Connected and register ok.
+02-10-21:53:43.4763 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-10-21:56:23.4775 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-10-21:59:03.4786 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-10-22:01:43.4808 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-10-22:04:23.4819 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-10-22:07:03.4841 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-10-22:09:43.4852 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-10-22:12:23.4874 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-10-22:15:03.4875 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 1.
+02-10-22:17:43.4897 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 1.
+02-10-22:20:23.4918 10948 GateServer::CGSKernel::OnMsgFromCS_AskPingRet:41 Ping CS returned, tick span 2.
+02-10-22:21:49.2887 10948 CM2CSession::OnClose:52 CS DisConnect.
+02-10-22:21:49.4047 10948 CM2SSession::OnClose:64 SS(20001) DisConnect.
+02-10-22:21:49.6017 10948 CM2BSession::OnClose:47 BS DisConnect.

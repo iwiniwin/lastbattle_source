@@ -1,0 +1,38 @@
+02-10-21:51:01.2120 11956 SceneServer::CSSCfgMgr::LoadMapObjCfg:901  Load 38 map obj cfg.
+02-10-21:51:01.2130 11956 SceneServer::CSSCfgMgr::LoadMapCfg:787  load 4 map.
+02-10-21:51:01.3600 11956 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:20001, ReuseAddr 1
+02-10-21:51:02.3711 11956 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+02-10-21:51:03.3731 11956 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:1234
+02-10-21:53:05.9212 11956 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:49 Send To 0 actor and now it hv 0 battle
+02-10-21:53:29.7425 9508 SceneServer::CSSHero::SynGoodsUseStateToGC:1357 un8GridID:0, num:1, eOT:30001 n32RemainCoolTime:0
+02-10-21:55:55.7819 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:1.
+02-10-21:55:57.0809 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:2.
+02-10-21:55:58.3810 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:3.
+02-10-21:55:59.7801 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:4.
+02-10-21:56:21.3893 9508 SceneServer::CSSHero::GetCurTitel:1193 1.
+02-10-21:56:21.3923 9508 SceneServer::CSSHero::GetCurTitel:1193 0.
+02-10-21:56:24.4825 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:5.
+02-10-21:56:26.8896 9508 SceneServer::CSSHero::GetCurTitel:1193 2.
+02-10-21:56:26.8936 9508 SceneServer::CSSHero::GetCurTitel:1193 0.
+02-10-21:56:29.2828 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:6.
+02-10-21:56:39.6824 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:7.
+02-10-21:56:44.0866 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:1.
+02-10-21:57:04.6848 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:8.
+02-10-21:57:05.8849 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:9.
+02-10-21:57:08.3850 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:10.
+02-10-21:57:10.7942 9508 SceneServer::CSSHero::GetCurTitel:1193 3.
+02-10-21:57:10.7982 9508 SceneServer::CSSHero::GetCurTitel:1193 0.
+02-10-21:57:11.8842 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:11.
+02-10-21:57:13.4843 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:12.
+02-10-21:57:14.6844 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:2.
+02-10-21:57:15.8915 9508 SceneServer::CSSHero::GetCurTitel:1193 4.
+02-10-21:57:15.8945 9508 SceneServer::CSSHero::GetCurTitel:1193 0.
+02-10-21:57:24.3849 9508 SceneServer::CSSHero::SynGoodsUseStateToGC:1357 un8GridID:0, num:1, eOT:30009 n32RemainCoolTime:0
+02-10-21:57:24.7850 9508 SceneServer::CSSHero::SynGoodsUseStateToGC:1357 un8GridID:0, num:1, eOT:30014 n32RemainCoolTime:0
+02-10-21:57:32.1934 9508 SceneServer::CSSHero::GetCurTitel:1193 5.
+02-10-21:57:32.1984 9508 SceneServer::CSSHero::GetCurTitel:1193 0.
+02-10-21:57:34.2845 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:13.
+02-10-21:57:35.3846 9508 SceneServer::CSSNPC::ChangeCurHP:305 LastHit:14.
+02-10-21:57:41.7989 9508 SceneServer::CSSUser::ClearNetInfo:71 clear nsid:4
+02-10-21:57:41.7999 9508 SceneServer::CSSBattle::PostMsgToCS_BattleEnd:127 herokills:0.
+02-10-21:57:41.8869 9508 SceneServer::CSSBattle::~CSSBattle:72 Destroy a battle : 1

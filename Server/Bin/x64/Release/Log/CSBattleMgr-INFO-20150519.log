@@ -1,0 +1,13 @@
+05-19-18:51:52.9175 19940 CentralServer::CCSCfgMgr::LoadFilterWordsCfg:1950 Success!
+05-19-18:51:54.2825 19940 CentralServer::CCSCfgMgr::LoadAiRobotName:2130 LoadAiRobotName Success!
+05-19-18:51:54.4797 19940 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+05-19-18:51:54.4827 19940 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+05-19-18:51:54.5107 19940 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+05-19-18:51:54.5297 19940 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+05-19-18:51:54.5317 19940 CentralServer::CCSKernel::Start:169 success!
+05-19-18:51:54.6188 19940 CRedisSession::SendInitData:23 连接上Redis
+05-19-18:51:54.6268 19940 CLogicRedisSession::SendInitData:14 连接上Redis
+05-19-18:51:54.7799 19940 CSceneSession::OnRealEstablish:60 SS(20001) Connected
+05-19-18:51:54.7909 19940 CentralServer::CCSBattleMgr::PostMsgToSS_NotifyGameLogSwitch:570 -------cs send switch to ss ok------------
+05-19-18:51:54.8509 19940 CGateSession::OnRealEstablish:57 GS(30001) Connected
+05-19-18:51:55.6155 19940 CCSLogSession::SendInitData:26  LogServer Connected, try to register me.

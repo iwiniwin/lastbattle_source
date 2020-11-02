@@ -1,0 +1,4 @@
+04-16-09:22:14.0401 9176 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:40001, ReuseAddr 1
+04-16-09:22:14.5645 9176 CM2CSession::Msg_Handle_Init:77 m_un32MaxSSNum:15
+04-16-09:23:20.8539 9176 CClientSession::OnRealEstablish:38 client(4)(192.168.1.88:31154) connected.
+04-16-09:23:20.8619 9176 GateServer::CGSKernel::OnMsgFromGC:57 client(4) ask login(123)(69107CA20ABA436B96C73D9A1E8AC50F)

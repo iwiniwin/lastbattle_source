@@ -1,0 +1,763 @@
+02-05-21:39:01.0374 6744 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:54 创建战场(1)
+02-05-21:39:01.0404 6744 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:74 玩家(useguid:2001)进入战场(1)
+02-05-21:39:01.0424 7196 SceneServer::CSSBattleMgr::OnMsgFromCS_CreateBattle:221 邀请玩家(abc)加入战场(1)
+02-05-21:39:01.0654 7196 SceneServer::CSSBattle::PostMsgToGC_EnterBattleState:233 玩家(abc)确认加入战场(1),当前战场状态(0)
+02-05-21:39:04.5246 7196 SceneServer::CSSBattleMgr::OnMsgFromGC_AskTrySelectHero:62 玩家(abc)AskTrySelectHero
+02-05-21:39:05.6557 7196 SceneServer::CSSBattleMgr::OnMsgFromGC_AskTrySelectHero:62 玩家(abc)AskTrySelectHero
+02-05-21:39:06.8178 7196 SceneServer::CSSBattleMgr::OnMsgFromGC_AskSeleteHero:69 玩家(abc)AskSeleteHero
+02-05-21:39:06.9158 7196 SceneServer::CSSBattleMgr::OnMsgFromGC_AskSeleteRunePage:85 玩家(abc)AskSeleteRunePage
+02-05-21:39:25.1718 7196 SceneServer::CSSBattleMgr::OnMsgFromGC_AskSeleteRunePage:85 玩家(abc)AskSeleteRunePage
+02-05-21:39:37.1415 7196 SceneServer::CSSBattleMgr::OnMsgFromGC_LoadBattleComplete:100 玩家(abc)AskLoadBattleComplete
+02-05-21:40:12.4495 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 550152.
+02-05-21:40:13.2486 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 550951.
+02-05-21:40:14.6487 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 552351.
+02-05-21:40:14.9487 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 552651.
+02-05-21:40:15.1527 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 552851.
+02-05-21:40:15.4487 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 553151.
+02-05-21:40:15.4507 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:1.
+02-05-21:40:15.4547 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:40:17.0488 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 554751.
+02-05-21:40:17.0508 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 554751.
+02-05-21:40:17.0528 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 554751.
+02-05-21:40:17.4498 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 555152.
+02-05-21:40:17.5488 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 555251.
+02-05-21:40:18.3489 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 556051.
+02-05-21:40:18.3519 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 556051.
+02-05-21:40:18.8499 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 556552.
+02-05-21:40:20.3500 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 558051.
+02-05-21:40:20.9490 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 558651.
+02-05-21:40:20.9510 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 558651.
+02-05-21:40:21.8491 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 559552.
+02-05-21:40:23.3482 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 561051.
+02-05-21:40:24.5492 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 562252.
+02-05-21:40:24.7482 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 562451.
+02-05-21:40:24.7502 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 562451.
+02-05-21:40:25.6493 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 563351.
+02-05-21:40:25.9483 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 563651.
+02-05-21:40:25.9503 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:1.
+02-05-21:40:25.9543 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:40:26.1483 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 563851.
+02-05-21:40:26.6483 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 564351.
+02-05-21:40:27.5484 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 565251.
+02-05-21:40:27.5504 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 565251.
+02-05-21:40:27.5524 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 565252.
+02-05-21:40:28.2494 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 565952.
+02-05-21:40:28.2514 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:2.
+02-05-21:40:28.2564 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:41:06.8666 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 604569.
+02-05-21:41:06.8686 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 604569.
+02-05-21:41:06.9666 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 604669.
+02-05-21:41:08.5667 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 606269.
+02-05-21:41:10.9669 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 608669.
+02-05-21:41:35.6683 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 633371.
+02-05-21:41:35.7673 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 633470.
+02-05-21:41:36.0673 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 633770.
+02-05-21:41:36.7673 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 634470.
+02-05-21:41:37.7674 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 635470.
+02-05-21:41:39.0675 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 636770.
+02-05-21:41:39.5675 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 637270.
+02-05-21:41:39.5725 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:1.
+02-05-21:41:39.5795 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:41:40.0675 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 637770.
+02-05-21:41:59.4716 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 657174.
+02-05-21:41:59.7707 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 657473.
+02-05-21:42:00.1707 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 657873.
+02-05-21:42:00.4707 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 658173.
+02-05-21:42:00.5707 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 658273.
+02-05-21:42:00.6707 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 658373.
+02-05-21:42:00.6727 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 658373.
+02-05-21:42:01.2708 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 658973.
+02-05-21:42:01.4718 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 659174.
+02-05-21:42:01.6708 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 659373.
+02-05-21:42:02.4708 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 660173.
+02-05-21:42:02.6718 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 660373.
+02-05-21:42:02.6738 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 660373.
+02-05-21:42:02.7718 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 660474.
+02-05-21:42:02.9708 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 660673.
+02-05-21:42:03.8709 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 661573.
+02-05-21:42:03.8729 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 661573.
+02-05-21:42:03.9709 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 661673.
+02-05-21:42:04.5709 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 662273.
+02-05-21:42:04.8710 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 662573.
+02-05-21:42:04.9710 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 662673.
+02-05-21:42:05.0720 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 662774.
+02-05-21:42:05.8710 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 663573.
+02-05-21:42:06.8701 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 664573.
+02-05-21:42:07.0701 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 664773.
+02-05-21:42:07.8711 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 665574.
+02-05-21:42:07.8751 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:2.
+02-05-21:42:07.8781 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:42:08.2702 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 665973.
+02-05-21:42:08.4702 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 666173.
+02-05-21:42:08.4722 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:2.
+02-05-21:42:08.4742 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:42:11.4733 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:1.
+02-05-21:42:11.4753 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:42:29.9724 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 687675.
+02-05-21:42:30.2714 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 687974.
+02-05-21:42:30.9725 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 688674.
+02-05-21:42:31.0715 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 688774.
+02-05-21:42:31.9715 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 689674.
+02-05-21:42:32.5715 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 690274.
+02-05-21:42:33.0716 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 690774.
+02-05-21:42:34.2726 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 691975.
+02-05-21:42:35.1717 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 692874.
+02-05-21:42:36.3728 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 694074.
+02-05-21:42:36.7718 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 694474.
+02-05-21:42:37.0718 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 694774.
+02-05-21:42:37.4718 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 695174.
+02-05-21:42:38.0729 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 695775.
+02-05-21:42:39.5719 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 697274.
+02-05-21:42:40.1720 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 697874.
+02-05-21:42:40.1730 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 697874.
+02-05-21:42:40.1750 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 697875.
+02-05-21:42:40.6720 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 698374.
+02-05-21:42:40.8720 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 698574.
+02-05-21:42:41.1730 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 698874.
+02-05-21:42:42.0741 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:3.
+02-05-21:42:42.0761 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:42:42.1711 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 699874.
+02-05-21:42:43.4722 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 701175.
+02-05-21:42:44.4722 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 702174.
+02-05-21:42:45.4723 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 703175.
+02-05-21:42:54.2718 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 711974.
+02-05-21:42:54.5728 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 712275.
+02-05-21:42:54.5748 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:4.
+02-05-21:42:54.5768 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10019.
+02-05-21:43:09.1716 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 726874.
+02-05-21:43:09.8727 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 727575.
+02-05-21:43:10.1717 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 727874.
+02-05-21:43:10.3717 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 728074.
+02-05-21:43:10.4717 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 728174.
+02-05-21:43:10.9717 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 728674.
+02-05-21:43:11.7718 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 729474.
+02-05-21:43:11.7738 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:3.
+02-05-21:43:11.7768 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:44:06.6749 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 784377.
+02-05-21:44:06.6769 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 784377.
+02-05-21:44:06.9749 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 784677.
+02-05-21:44:06.9769 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 784677.
+02-05-21:44:07.4750 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 785177.
+02-05-21:44:07.4770 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 785177.
+02-05-21:44:07.6750 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 785377.
+02-05-21:44:07.7750 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 785477.
+02-05-21:44:07.9750 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 785677.
+02-05-21:44:08.4750 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 786177.
+02-05-21:44:08.4770 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 786177.
+02-05-21:44:08.6760 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 786378.
+02-05-21:44:08.9751 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 786677.
+02-05-21:44:08.9771 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 786677.
+02-05-21:44:09.9741 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 787677.
+02-05-21:44:09.9761 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 787677.
+02-05-21:44:10.2741 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 787977.
+02-05-21:44:10.2761 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:5.
+02-05-21:44:10.2781 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10020.
+02-05-21:44:19.8747 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 797577.
+02-05-21:44:19.8767 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 797577.
+02-05-21:44:20.2757 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 797978.
+02-05-21:44:20.3747 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 798077.
+02-05-21:44:20.3787 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:4.
+02-05-21:44:20.3807 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:44:31.1743 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 808877.
+02-05-21:44:31.1763 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 808877.
+02-05-21:44:31.4743 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 809177.
+02-05-21:44:31.4763 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 809178.
+02-05-21:44:31.9744 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 809677.
+02-05-21:44:31.9764 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 809677.
+02-05-21:44:32.1754 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 809878.
+02-05-21:44:32.4744 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 810177.
+02-05-21:44:32.4764 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 810178.
+02-05-21:44:32.9744 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 810677.
+02-05-21:44:32.9774 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 810677.
+02-05-21:44:33.1744 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 810877.
+02-05-21:44:33.4745 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 811177.
+02-05-21:44:34.3755 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 812078.
+02-05-21:44:34.4745 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 812177.
+02-05-21:44:35.3756 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 813078.
+02-05-21:44:36.4756 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 814178.
+02-05-21:44:37.6747 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 815377.
+02-05-21:44:39.7768 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 817478.
+02-05-21:44:39.7778 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 817479.
+02-05-21:44:40.7759 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 818478.
+02-05-21:44:40.8759 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 818578.
+02-05-21:44:40.8779 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 818578.
+02-05-21:44:41.0769 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 818779.
+02-05-21:44:41.1769 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 818879.
+02-05-21:44:41.8769 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 819579.
+02-05-21:44:41.9759 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 819678.
+02-05-21:44:42.1770 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 819879.
+02-05-21:44:42.8770 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 820578.
+02-05-21:44:42.9760 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 820678.
+02-05-21:44:43.1760 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 820878.
+02-05-21:44:43.9771 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 821679.
+02-05-21:45:03.2752 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 840978.
+02-05-21:45:04.1752 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 841878.
+02-05-21:45:04.4762 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 842179.
+02-05-21:45:04.7762 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 842479.
+02-05-21:45:05.0753 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 842778.
+02-05-21:45:05.3763 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 843079.
+02-05-21:45:05.5753 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 843278.
+02-05-21:45:06.1753 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 843878.
+02-05-21:45:06.1773 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:1.
+02-05-21:45:06.1803 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:45:06.1823 7196 SceneServer::CSSHero::ChangeCurHP:1660 Got End title CP:200.
+02-05-21:45:21.1752 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 858878.
+02-05-21:45:21.1772 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 858878.
+02-05-21:45:21.5752 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 859278.
+02-05-21:45:21.5772 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 859278.
+02-05-21:45:21.9762 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 859679.
+02-05-21:45:22.1752 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 859878.
+02-05-21:45:22.5753 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 860278.
+02-05-21:45:22.5773 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 860278.
+02-05-21:45:22.9753 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 860678.
+02-05-21:45:23.1753 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 860878.
+02-05-21:45:23.2753 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 860978.
+02-05-21:45:23.5753 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 861278.
+02-05-21:45:24.1754 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 861878.
+02-05-21:45:24.6754 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 862378.
+02-05-21:45:24.6774 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 862378.
+02-05-21:45:25.1814 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 862878.
+02-05-21:45:25.1834 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 862879.
+02-05-21:45:25.6754 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 863378.
+02-05-21:45:26.6755 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 864378.
+02-05-21:45:26.6805 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:5.
+02-05-21:45:26.6855 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:45:50.9809 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 888683.
+02-05-21:45:51.6809 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 889383.
+02-05-21:45:52.7810 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 890483.
+02-05-21:45:52.9810 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 890683.
+02-05-21:45:52.9830 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 890683.
+02-05-21:45:53.8811 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 891583.
+02-05-21:45:53.8831 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 891583.
+02-05-21:45:53.9801 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 891683.
+02-05-21:45:53.9821 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 891683.
+02-05-21:45:54.0801 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 891783.
+02-05-21:45:54.8801 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 892583.
+02-05-21:45:55.8802 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 893583.
+02-05-21:45:55.8822 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 893583.
+02-05-21:45:56.8802 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 894583.
+02-05-21:45:57.8813 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 895583.
+02-05-21:45:59.4814 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 897184.
+02-05-21:46:00.3814 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 898084.
+02-05-21:46:00.3834 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 898084.
+02-05-21:46:00.3854 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:6.
+02-05-21:46:00.3874 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10019.
+02-05-21:46:00.4814 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 898184.
+02-05-21:46:00.7905 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:2.
+02-05-21:46:00.7935 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:46:00.7965 7196 SceneServer::CSSHero::ChangeCurHP:1660 Got End title CP:100.
+02-05-21:46:27.8820 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 925584.
+02-05-21:46:28.1820 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 925884.
+02-05-21:46:29.0811 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 926784.
+02-05-21:46:29.8811 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 927584.
+02-05-21:46:30.9812 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 928684.
+02-05-21:46:35.3824 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 933085.
+02-05-21:46:35.3834 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 933085.
+02-05-21:46:35.6824 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 933385.
+02-05-21:46:36.4815 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 934184.
+02-05-21:46:36.4835 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 934184.
+02-05-21:46:37.4825 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 935185.
+02-05-21:46:37.7836 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 935485.
+02-05-21:46:39.4827 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 937185.
+02-05-21:47:54.2899 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1011992.
+02-05-21:47:54.8900 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1012592.
+02-05-21:47:54.8910 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1012592.
+02-05-21:47:55.0900 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1012792.
+02-05-21:47:55.9900 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1013692.
+02-05-21:47:56.4891 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1014192.
+02-05-21:47:56.7901 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1014493.
+02-05-21:47:56.7921 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1014493.
+02-05-21:47:56.8901 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1014592.
+02-05-21:47:57.8891 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1015592.
+02-05-21:47:58.0892 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1015792.
+02-05-21:47:58.0932 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:3.
+02-05-21:47:58.0972 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:47:58.5902 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1016292.
+02-05-21:47:58.8892 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1016592.
+02-05-21:47:58.8912 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1016592.
+02-05-21:47:59.6893 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1017392.
+02-05-21:47:59.6913 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1017392.
+02-05-21:47:59.6923 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1017393.
+02-05-21:47:59.8903 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1017592.
+02-05-21:48:00.3893 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1018092.
+02-05-21:48:00.4893 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1018192.
+02-05-21:48:00.4903 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1018192.
+02-05-21:48:00.6893 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1018392.
+02-05-21:48:00.8903 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1018592.
+02-05-21:48:01.2893 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1018992.
+02-05-21:48:01.2913 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1018992.
+02-05-21:48:01.6894 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1019392.
+02-05-21:48:02.6904 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1020393.
+02-05-21:48:02.9894 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1020692.
+02-05-21:48:03.6895 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1021392.
+02-05-21:48:36.5894 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1054292.
+02-05-21:48:36.5914 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1054292.
+02-05-21:48:36.7894 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1054492.
+02-05-21:48:37.0894 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1054792.
+02-05-21:48:37.2894 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1054992.
+02-05-21:48:37.5894 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1055292.
+02-05-21:48:37.5914 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1055292.
+02-05-21:48:37.5934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1055293.
+02-05-21:48:37.9904 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1055693.
+02-05-21:48:38.3895 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1056092.
+02-05-21:48:38.3915 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1056092.
+02-05-21:48:38.5895 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1056292.
+02-05-21:48:39.0895 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1056792.
+02-05-21:48:39.3895 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1057092.
+02-05-21:48:39.5895 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1057292.
+02-05-21:48:39.9906 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1057693.
+02-05-21:48:40.3906 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1058093.
+02-05-21:48:40.8916 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1058594.
+02-05-21:48:41.8927 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1059595.
+02-05-21:48:43.6918 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1061394.
+02-05-21:48:45.0918 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1062794.
+02-05-21:48:49.9911 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1067694.
+02-05-21:48:50.2911 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1067994.
+02-05-21:48:50.2931 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:6.
+02-05-21:48:50.2951 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:49:06.6911 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1084394.
+02-05-21:49:06.6931 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1084394.
+02-05-21:49:07.0921 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1084795.
+02-05-21:49:07.1911 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1084894.
+02-05-21:49:07.2911 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1084994.
+02-05-21:49:07.5911 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1085294.
+02-05-21:49:07.6911 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1085394.
+02-05-21:49:07.8912 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1085594.
+02-05-21:49:08.1912 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1085894.
+02-05-21:49:08.4912 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1086194.
+02-05-21:49:08.6912 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1086394.
+02-05-21:49:08.8912 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1086594.
+02-05-21:49:08.9912 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1086694.
+02-05-21:49:09.1912 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1086894.
+02-05-21:49:09.1932 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1086895.
+02-05-21:49:09.9913 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1087694.
+02-05-21:49:10.1923 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1087895.
+02-05-21:49:10.3913 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1088094.
+02-05-21:49:10.3933 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1088095.
+02-05-21:49:10.3953 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:7.
+02-05-21:49:10.3973 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:49:10.7923 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1088495.
+02-05-21:49:30.5925 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1108295.
+02-05-21:49:30.8925 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1108595.
+02-05-21:49:31.1915 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1108894.
+02-05-21:49:31.5935 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1109295.
+02-05-21:49:32.0915 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1109794.
+02-05-21:49:32.5926 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1110295.
+02-05-21:49:32.5946 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1110295.
+02-05-21:49:33.1926 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1110894.
+02-05-21:49:33.5926 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1111295.
+02-05-21:49:34.4917 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1112194.
+02-05-21:49:34.5927 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1112295.
+02-05-21:49:35.5917 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1113294.
+02-05-21:49:35.5937 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1113294.
+02-05-21:49:35.5947 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1113294.
+02-05-21:49:35.6917 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1113394.
+02-05-21:49:36.0918 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1113794.
+02-05-21:49:36.5918 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1114294.
+02-05-21:49:36.5938 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1114294.
+02-05-21:49:36.8918 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1114594.
+02-05-21:49:36.9918 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1114694.
+02-05-21:49:37.5919 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1115294.
+02-05-21:49:37.5929 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1115294.
+02-05-21:49:37.5949 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1115294.
+02-05-21:49:37.8919 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1115594.
+02-05-21:49:38.2919 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1115994.
+02-05-21:49:38.3919 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1116094.
+02-05-21:49:38.5919 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1116294.
+02-05-21:49:38.5949 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1116294.
+02-05-21:49:38.8919 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1116594.
+02-05-21:49:39.1919 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1116894.
+02-05-21:49:39.1939 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:7.
+02-05-21:49:39.1959 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:50:03.7934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1141496.
+02-05-21:50:04.1934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1141896.
+02-05-21:50:04.7934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1142496.
+02-05-21:50:04.9934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1142696.
+02-05-21:50:05.2934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1142996.
+02-05-21:50:05.7935 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1143496.
+02-05-21:50:05.9935 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1143696.
+02-05-21:50:06.0935 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1143796.
+02-05-21:50:06.7935 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1144496.
+02-05-21:50:07.2936 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1144996.
+02-05-21:50:07.6936 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1145396.
+02-05-21:50:07.7946 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1145497.
+02-05-21:50:08.4946 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1146196.
+02-05-21:50:08.7936 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1146496.
+02-05-21:50:09.0987 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:3.
+02-05-21:50:09.1007 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:50:09.7937 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1147496.
+02-05-21:50:15.5940 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1153296.
+02-05-21:50:15.5970 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1153296.
+02-05-21:50:16.5931 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1154296.
+02-05-21:50:16.5941 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1154296.
+02-05-21:50:16.5961 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1154296.
+02-05-21:50:16.5981 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1154296.
+02-05-21:50:17.4931 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1155196.
+02-05-21:50:17.4941 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1155196.
+02-05-21:50:17.5931 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1155296.
+02-05-21:50:17.8932 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1155596.
+02-05-21:50:17.9932 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1155696.
+02-05-21:50:18.2932 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1155996.
+02-05-21:50:18.2952 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1155996.
+02-05-21:50:18.2972 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1155996.
+02-05-21:50:18.5932 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1156296.
+02-05-21:50:19.0932 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1156796.
+02-05-21:50:19.0952 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1156796.
+02-05-21:50:19.3932 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1157096.
+02-05-21:50:19.5933 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1157296.
+02-05-21:50:19.5953 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1157296.
+02-05-21:50:19.6933 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1157396.
+02-05-21:50:20.5933 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1158296.
+02-05-21:50:20.6933 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1158396.
+02-05-21:50:20.6953 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:4.
+02-05-21:50:20.6973 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:50:20.7973 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1158497.
+02-05-21:50:21.5934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1159296.
+02-05-21:50:21.8934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1159596.
+02-05-21:50:22.1934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1159896.
+02-05-21:50:22.1954 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1159896.
+02-05-21:50:22.1964 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1159896.
+02-05-21:50:22.5934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1160296.
+02-05-21:50:22.9934 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1160696.
+02-05-21:50:22.9944 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1160696.
+02-05-21:50:23.1935 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1160896.
+02-05-21:50:23.5935 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1161296.
+02-05-21:50:23.6935 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1161396.
+02-05-21:50:23.7935 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1161496.
+02-05-21:50:23.7985 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1161496.
+02-05-21:50:24.1935 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1161896.
+02-05-21:50:24.5945 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1162297.
+02-05-21:50:25.1936 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1162896.
+02-05-21:50:25.6936 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1163396.
+02-05-21:50:25.9996 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:8.
+02-05-21:50:26.0016 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:50:39.0944 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1176796.
+02-05-21:50:39.0954 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1176797.
+02-05-21:50:40.1424 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1177845.
+02-05-21:50:40.7415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1178444.
+02-05-21:50:41.1415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1178844.
+02-05-21:50:41.1435 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1178845.
+02-05-21:50:41.4415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1179144.
+02-05-21:50:42.1415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1179844.
+02-05-21:50:42.3416 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1180044.
+02-05-21:50:43.1416 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1180844.
+02-05-21:50:44.1417 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1181844.
+02-05-21:50:45.1417 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1182844.
+02-05-21:50:45.9418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1183644.
+02-05-21:50:46.1418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1183844.
+02-05-21:50:46.7418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1184444.
+02-05-21:50:47.1418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1184844.
+02-05-21:50:48.0419 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1185744.
+02-05-21:50:48.1419 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1185844.
+02-05-21:50:48.1449 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1185845.
+02-05-21:50:49.1429 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1186845.
+02-05-21:50:49.1449 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1186845.
+02-05-21:50:50.0420 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1187744.
+02-05-21:50:50.1420 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1187844.
+02-05-21:50:50.1440 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1187844.
+02-05-21:50:51.1431 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1188845.
+02-05-21:50:51.1441 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1188845.
+02-05-21:50:51.1451 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1188845.
+02-05-21:50:51.2421 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1188944.
+02-05-21:50:52.1411 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1189844.
+02-05-21:50:52.1431 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1189844.
+02-05-21:50:52.5411 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1190244.
+02-05-21:50:52.6411 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1190344.
+02-05-21:50:52.7421 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1190444.
+02-05-21:50:52.9412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1190644.
+02-05-21:50:53.0412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1190744.
+02-05-21:50:53.0432 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1190744.
+02-05-21:50:53.1422 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1190845.
+02-05-21:50:53.1432 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1190845.
+02-05-21:50:53.2412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1190944.
+02-05-21:50:53.4412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1191144.
+02-05-21:50:53.4432 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1191144.
+02-05-21:50:53.4442 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1191144.
+02-05-21:50:53.5422 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1191245.
+02-05-21:50:53.8412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1191544.
+02-05-21:50:54.1412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1191844.
+02-05-21:50:54.1432 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1191844.
+02-05-21:50:54.4412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1192144.
+02-05-21:50:54.4432 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:8.
+02-05-21:50:54.4462 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:50:54.4482 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1192144.
+02-05-21:50:55.1413 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1192844.
+02-05-21:50:56.1413 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1193844.
+02-05-21:50:56.1433 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:9.
+02-05-21:50:56.1463 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:50:56.1493 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1193844.
+02-05-21:50:57.1414 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1194844.
+02-05-21:51:14.1424 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1211844.
+02-05-21:51:14.6414 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1212344.
+02-05-21:51:14.6434 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1212344.
+02-05-21:51:15.1414 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1212844.
+02-05-21:51:16.1415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1213844.
+02-05-21:51:16.2415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1213944.
+02-05-21:51:16.7415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1214444.
+02-05-21:51:17.1425 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1214845.
+02-05-21:51:17.1445 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1214845.
+02-05-21:51:18.1416 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1215844.
+02-05-21:51:18.5416 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1216244.
+02-05-21:51:18.5446 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1216245.
+02-05-21:51:19.1417 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1216844.
+02-05-21:51:19.5417 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1217244.
+02-05-21:51:20.1417 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1217844.
+02-05-21:51:20.9418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1218644.
+02-05-21:51:21.1418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1218844.
+02-05-21:51:22.1418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1219844.
+02-05-21:51:22.5419 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1220244.
+02-05-21:51:23.1419 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1220844.
+02-05-21:51:23.3419 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1221044.
+02-05-21:51:23.3439 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1221044.
+02-05-21:51:23.5419 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1221244.
+02-05-21:51:24.1419 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1221844.
+02-05-21:51:24.9420 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1222644.
+02-05-21:51:24.9440 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1222644.
+02-05-21:51:25.1420 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1222844.
+02-05-21:51:26.1421 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1223845.
+02-05-21:51:26.6411 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1224344.
+02-05-21:51:26.6431 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1224344.
+02-05-21:51:26.8411 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1224544.
+02-05-21:51:27.1411 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1224844.
+02-05-21:51:27.5411 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1225244.
+02-05-21:51:27.5431 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1225244.
+02-05-21:51:28.1422 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1225845.
+02-05-21:51:28.4412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1226144.
+02-05-21:51:28.4432 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1226144.
+02-05-21:51:28.7412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1226444.
+02-05-21:51:29.1412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1226844.
+02-05-21:51:29.1432 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1226845.
+02-05-21:51:29.2412 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1226944.
+02-05-21:51:29.2422 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1226944.
+02-05-21:51:30.0413 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1227744.
+02-05-21:51:30.0433 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1227744.
+02-05-21:51:30.1423 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1227845.
+02-05-21:51:30.8413 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1228544.
+02-05-21:51:30.8433 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1228544.
+02-05-21:51:31.1413 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1228844.
+02-05-21:51:32.0414 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1229744.
+02-05-21:51:32.1414 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1229844.
+02-05-21:51:33.1415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1230844.
+02-05-21:51:33.7415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1231444.
+02-05-21:51:33.7435 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1231444.
+02-05-21:51:33.7445 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:5.
+02-05-21:51:33.7475 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:51:33.8415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1231544.
+02-05-21:51:34.1415 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1231844.
+02-05-21:51:35.1416 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1232844.
+02-05-21:51:36.5417 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1234244.
+02-05-21:51:36.5437 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1234244.
+02-05-21:51:37.2417 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1234944.
+02-05-21:51:37.3417 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1235044.
+02-05-21:51:37.3437 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1235044.
+02-05-21:51:37.5417 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1235244.
+02-05-21:51:37.5437 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1235245.
+02-05-21:51:37.8417 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1235544.
+02-05-21:51:37.8437 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1235544.
+02-05-21:51:37.8447 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1235544.
+02-05-21:51:38.1427 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1235845.
+02-05-21:51:38.1437 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1235845.
+02-05-21:51:38.3418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1236044.
+02-05-21:51:38.5418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1236244.
+02-05-21:51:38.5438 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1236244.
+02-05-21:51:38.8418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1236544.
+02-05-21:51:39.3418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1237044.
+02-05-21:51:39.5418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1237244.
+02-05-21:51:39.5438 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1237244.
+02-05-21:51:39.6418 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1237344.
+02-05-21:51:39.6438 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:2.
+02-05-21:51:39.6468 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:51:39.8438 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1237546.
+02-05-21:51:40.3439 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1238046.
+02-05-21:51:40.5439 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1238246.
+02-05-21:51:41.5479 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1239250.
+02-05-21:52:20.8492 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1278552.
+02-05-21:52:21.2482 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1278951.
+02-05-21:52:21.2502 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1278951.
+02-05-21:52:21.4482 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1279151.
+02-05-21:52:21.7482 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1279451.
+02-05-21:52:21.8482 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1279551.
+02-05-21:52:21.8502 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1279551.
+02-05-21:52:22.1483 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1279851.
+02-05-21:52:22.8483 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1280551.
+02-05-21:52:23.4483 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1281151.
+02-05-21:52:23.5483 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1281251.
+02-05-21:52:23.8484 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1281551.
+02-05-21:52:24.8494 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1282552.
+02-05-21:52:25.8495 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1283552.
+02-05-21:52:27.8496 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1285551.
+02-05-21:52:27.9496 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1285651.
+02-05-21:52:27.9506 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1285652.
+02-05-21:52:28.2486 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1285951.
+02-05-21:52:28.3486 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1286051.
+02-05-21:52:28.6486 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1286351.
+02-05-21:52:28.8496 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1286552.
+02-05-21:52:28.8516 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1286552.
+02-05-21:52:28.9487 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1286651.
+02-05-21:52:29.0487 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1286751.
+02-05-21:52:29.5497 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1287252.
+02-05-21:52:29.6497 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1287352.
+02-05-21:52:29.8487 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1287551.
+02-05-21:52:29.9497 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1287652.
+02-05-21:52:30.3487 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1288051.
+02-05-21:52:30.3507 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1288052.
+02-05-21:52:30.5497 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1288251.
+02-05-21:52:30.8498 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1288552.
+02-05-21:52:30.9488 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1288651.
+02-05-21:52:31.4488 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1289151.
+02-05-21:52:31.5488 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1289251.
+02-05-21:52:31.5508 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:9.
+02-05-21:52:31.5528 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:52:31.8488 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1289551.
+02-05-21:52:32.7489 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1290451.
+02-05-21:52:51.7500 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1309452.
+02-05-21:52:51.7520 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1309452.
+02-05-21:52:52.2510 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1309953.
+02-05-21:52:52.3500 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1310052.
+02-05-21:52:52.4500 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1310152.
+02-05-21:52:52.7500 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1310452.
+02-05-21:52:52.7520 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1310452.
+02-05-21:52:53.0500 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1310752.
+02-05-21:52:53.1500 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1310852.
+02-05-21:52:53.3500 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1311052.
+02-05-21:52:53.3520 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1311052.
+02-05-21:52:53.6491 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1311352.
+02-05-21:52:53.7491 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1311452.
+02-05-21:52:54.2491 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1311952.
+02-05-21:52:54.3491 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1312052.
+02-05-21:52:54.4491 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1312152.
+02-05-21:52:54.7491 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1312452.
+02-05-21:52:55.7492 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1313452.
+02-05-21:52:56.0492 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1313752.
+02-05-21:52:56.0512 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1313752.
+02-05-21:52:57.0503 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1314753.
+02-05-21:52:57.4503 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1315153.
+02-05-21:52:57.7493 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1315452.
+02-05-21:52:58.0503 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1315753.
+02-05-21:53:00.7535 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:10.
+02-05-21:53:00.7565 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-05-21:53:23.0507 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1340753.
+02-05-21:53:23.0527 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1340753.
+02-05-21:53:23.1498 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1340852.
+02-05-21:53:23.5508 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1341253.
+02-05-21:53:23.6498 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1341352.
+02-05-21:53:23.8498 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1341552.
+02-05-21:53:24.1498 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1341852.
+02-05-21:53:24.2498 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1341952.
+02-05-21:53:24.5498 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1342252.
+02-05-21:53:24.6508 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1342353.
+02-05-21:53:25.1499 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1342852.
+02-05-21:53:25.2509 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1342953.
+02-05-21:53:25.5509 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1343252.
+02-05-21:53:25.6499 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1343352.
+02-05-21:53:26.1499 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1343852.
+02-05-21:53:26.3509 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1344053.
+02-05-21:53:58.3508 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1376053.
+02-05-21:53:58.3528 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1376054.
+02-05-21:53:58.6508 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1376353.
+02-05-21:53:58.6528 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1376353.
+02-05-21:53:58.6548 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1376354.
+02-05-21:53:59.2508 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1376953.
+02-05-21:53:59.3518 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1377054.
+02-05-21:53:59.6508 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1377353.
+02-05-21:53:59.8509 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1377553.
+02-05-21:54:00.3509 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1378053.
+02-05-21:54:00.5569 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:11.
+02-05-21:54:00.5589 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10019.
+02-05-21:54:00.9509 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1378653.
+02-05-21:54:35.6519 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1413354.
+02-05-21:54:35.6569 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1413354.
+02-05-21:54:35.6579 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1413354.
+02-05-21:54:35.7529 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1413455.
+02-05-21:54:35.8519 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1413554.
+02-05-21:54:36.4519 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1414154.
+02-05-21:54:36.5530 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1414255.
+02-05-21:54:36.6520 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1414354.
+02-05-21:54:36.8520 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1414554.
+02-05-21:54:36.8540 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1414554.
+02-05-21:54:37.1520 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1414854.
+02-05-21:54:37.4530 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1415155.
+02-05-21:54:37.4540 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1415155.
+02-05-21:54:37.6520 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1415354.
+02-05-21:54:37.6540 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1415354.
+02-05-21:54:37.6550 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1415355.
+02-05-21:54:37.6560 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1415355.
+02-05-21:54:37.8530 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1415555.
+02-05-21:54:38.7521 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1416455.
+02-05-21:54:38.9521 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1416655.
+02-05-21:54:38.9531 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1416655.
+02-05-21:54:39.0511 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1416754.
+02-05-21:54:39.1521 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1416855.
+02-05-21:54:39.6511 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1417354.
+02-05-21:54:39.7511 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1417454.
+02-05-21:54:39.9511 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1417654.
+02-05-21:54:40.0512 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1417754.
+02-05-21:54:40.5512 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1418254.
+02-05-21:54:40.5532 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1418255.
+02-05-21:54:40.8522 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1418555.
+02-05-21:54:40.9532 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1418656.
+02-05-21:54:41.4522 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1419155.
+02-05-21:54:41.4542 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1419155.
+02-05-21:54:41.6522 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1419355.
+02-05-21:54:41.6562 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1419356.
+02-05-21:54:41.8523 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1419555.
+02-05-21:54:41.8583 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:12.
+02-05-21:54:41.8623 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10020.
+02-05-21:54:42.0523 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1419755.
+02-05-21:54:42.3523 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1420055.
+02-05-21:55:01.2524 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1438955.
+02-05-21:55:01.2544 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1438955.
+02-05-21:55:01.5524 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1439255.
+02-05-21:55:02.1524 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1439855.
+02-05-21:55:02.8525 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1440555.
+02-05-21:55:03.7525 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1441455.
+02-05-21:55:03.7545 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1441455.
+02-05-21:55:03.8525 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1441555.
+02-05-21:55:04.2525 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1441955.
+02-05-21:55:04.7526 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1442455.
+02-05-21:55:05.7536 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1443456.
+02-05-21:55:06.2526 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1443955.
+02-05-21:55:06.7527 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1444455.
+02-05-21:55:07.7537 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1445456.
+02-05-21:55:08.7528 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1446455.
+02-05-21:55:11.1529 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1448855.
+02-05-21:55:11.1549 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1448855.
+02-05-21:55:11.4529 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1449155.
+02-05-21:55:11.4559 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1449155.
+02-05-21:55:11.4569 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1449156.
+02-05-21:55:12.1540 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1449856.
+02-05-21:55:12.4540 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1450156.
+02-05-21:55:12.9540 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1450655.
+02-05-21:55:13.1540 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1450856.
+02-05-21:55:13.4521 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1451155.
+02-05-21:55:15.7522 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1453455.
+02-05-21:55:15.7542 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1453455.
+02-05-21:55:16.7523 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1454455.
+02-05-21:55:16.7543 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1454455.
+02-05-21:55:17.0523 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1454755.
+02-05-21:55:17.0543 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1454755.
+02-05-21:55:17.0553 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1454755.
+02-05-21:55:17.3523 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1455055.
+02-05-21:55:17.7543 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1455455.
+02-05-21:55:17.7553 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1455455.
+02-05-21:55:17.7623 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:13.
+02-05-21:55:17.7653 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10021.
+02-05-21:55:18.0523 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1455755.
+02-05-21:55:18.8524 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1456555.
+02-05-21:55:19.0524 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1456755.
+02-05-21:55:19.2524 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1456955.
+02-05-21:55:19.7534 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1457456.
+02-05-21:55:20.0544 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1457757.
+02-05-21:55:20.5535 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1458256.
+02-05-21:55:21.0535 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1458756.
+02-05-21:55:21.9535 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1459656.
+02-05-21:55:22.0536 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1459756.
+02-05-21:55:23.0536 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1460756.
+02-05-21:55:23.6536 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1461356.
+02-05-21:55:24.0537 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1461756.
+02-05-21:55:24.3537 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1462056.
+02-05-21:55:24.6537 7196 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 1462356.
+02-05-21:55:24.6557 7196 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:14.
+02-05-21:55:24.6587 7196 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10022.
+02-05-21:55:29.3600 7196 SceneServer::CSSWorkThreadMgr::NotifyDelBattle:274 结束战场(1)
+02-05-21:55:29.3620 6744 SceneServer::CSSWorkThreadMgr::CheckDelBattleCallbackQueue:328 战场结束(1)玩家(2001)移除

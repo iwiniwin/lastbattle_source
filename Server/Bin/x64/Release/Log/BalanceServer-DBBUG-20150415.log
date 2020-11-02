@@ -1,0 +1,9 @@
+04-15-19:26:50.6851 584 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49999, ReuseAddr 1
+04-15-19:26:51.6167 584 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49998, ReuseAddr 1
+
+
+-15-13:13:14.8178 7240 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49997
+04-15-13:13:15.8646 7240 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49997
+04-15-13:13:25.8913 7240 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49997
+04-15-13:13:35.8555 7240 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49997
+04-15-13:13:45.8675 7240 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49997

@@ -1,0 +1,69 @@
+05-19-18:54:13.0290 19940 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!123--
+05-19-18:54:13.0611 19940 CentralServer::CCSUserMgr::redisLoginCallBack:220 没有命中cache,所以查询数据库
+05-19-18:54:27.9036 19940 CentralServer::CCSBattle::CCSBattle:33 create battle(1)
+05-19-18:54:27.9117 19940 CentralServer::CCSBattle::CCSBattle:43 battle(1) add user(1001)
+05-19-18:55:02.8547 19940 CentralServer::CCSBattle::OnFinish:236 destory battle(1)
+05-19-18:55:02.8697 19940 CentralServer::CCSBattle::OnFinish:242 battle(1) remove user(1001)
+05-19-18:55:02.8807 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123) clear by reason(2)
+05-19-18:55:02.8867 19940 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 删除玩家!
+05-19-18:55:17.6355 19940 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!321--
+05-19-18:55:31.9183 19940 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:321, nickName:ZB鍏ㄥ
+05-19-18:55:34.1400 19940 CentralServer::CCSBattle::CCSBattle:33 create battle(2)
+05-19-18:55:34.1490 19940 CentralServer::CCSBattle::CCSBattle:43 battle(2) add user(2001)
+05-19-18:55:48.4371 19940 CentralServer::CCSBattle::OnFinish:236 destory battle(2)
+05-19-18:55:48.4441 19940 CentralServer::CCSBattle::OnFinish:242 battle(2) remove user(2001)
+05-19-18:55:48.4531 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(321) clear by reason(2)
+05-19-18:55:48.4641 19940 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 删除玩家!
+05-19-18:56:01.2466 19940 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!123321--
+05-19-18:56:13.3842 19940 CentralServer::CCSUserMgr::ChangeUserNickName:115 user szUserName:123321, nickName:ZBQT
+05-19-18:56:16.5220 19940 CentralServer::CCSBattle::CCSBattle:33 create battle(3)
+05-19-18:56:16.5330 19940 CentralServer::CCSBattle::CCSBattle:43 battle(3) add user(3001)
+05-19-18:56:53.8674 19940 CentralServer::CCSBattle::OnFinish:236 destory battle(3)
+05-19-18:56:53.8724 19940 CentralServer::CCSBattle::OnFinish:242 battle(3) remove user(3001)
+05-19-18:56:53.8844 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123321) clear by reason(2)
+05-19-18:56:53.9135 19940 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 删除玩家!
+05-19-18:57:05.7299 19940 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!123321--
+05-19-18:57:10.9122 19940 CentralServer::CCSUser::AskBuyGoods:505 购买花费金币2500，剩余:40
+05-19-18:57:15.5841 19940 CentralServer::CCSBattle::CCSBattle:33 create battle(4)
+05-19-18:57:15.5947 19940 CentralServer::CCSBattle::CCSBattle:43 battle(4) add user(3001)
+05-19-18:58:55.8298 19940 CentralServer::CCSBattle::CaculateExp:363 ExpAddition:0.
+05-19-18:58:55.8398 19940 CentralServer::CCSBattle::CaculateGold:400 GoldAddition:0.
+05-19-18:58:55.8638 19940 CentralServer::CCSBattle::OnFinish:236 destory battle(4)
+05-19-18:58:55.8688 19940 CentralServer::CCSBattle::OnFinish:242 battle(4) remove user(3001)
+05-19-18:58:55.8748 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123321) clear by reason(2)
+05-19-18:58:55.8848 19940 CentralServer::CCSUserMgr::CheckIfCanRemoveUser:663 删除玩家!
+05-19-18:59:04.1161 19940 CentralServer::CCSUserMgr::OnMgrFromGC_AskLogin:102 --new login msg!123321--
+05-19-18:59:31.3586 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123321) clear by reason(22)
+05-19-18:59:31.3657 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123321) clear by reason(33)
+05-19-18:59:34.0974 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:86 房间号1：开始时间Tue May 19 18:59:34 2015
+
+05-19-18:59:34.1074 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:87 房间号1：至少2人时间Tue May 19 18:59:38 2015
+
+05-19-18:59:34.1194 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:88 房间号1：至少3人时间Tue May 19 18:59:39 2015
+
+05-19-18:59:34.1314 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:89 房间号1：至少4人时间Tue May 19 18:59:45 2015
+
+05-19-18:59:34.1384 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:90 房间号1：至少5人时间Tue May 19 18:59:46 2015
+
+05-19-18:59:34.1504 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:91 房间号1：结束时间Tue May 19 18:59:53 2015
+
+05-19-18:59:36.4891 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123321) clear by reason(22)
+05-19-18:59:36.4961 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123321) clear by reason(33)
+05-19-18:59:44.6519 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:86 房间号2：开始时间Tue May 19 18:59:44 2015
+
+05-19-18:59:44.6569 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:87 房间号2：至少2人时间Tue May 19 18:59:48 2015
+
+05-19-18:59:44.6629 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:88 房间号2：至少3人时间Tue May 19 18:59:51 2015
+
+05-19-18:59:44.6669 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:89 房间号2：至少4人时间Tue May 19 18:59:53 2015
+
+05-19-18:59:44.6719 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:90 房间号2：至少5人时间Tue May 19 18:59:58 2015
+
+05-19-18:59:44.6809 19940 CCSMatchRoom_Nomal::CCSMatchRoom_Nomal:91 房间号2：结束时间Tue May 19 19:00:09 2015
+
+05-19-18:59:50.5441 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123321) clear by reason(22)
+05-19-18:59:50.5591 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123321) clear by reason(33)
+05-19-19:00:09.8209 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123321) clear by reason(22)
+05-19-19:00:09.8269 19940 CentralServer::CCSUserBattleInfo::Clear:64 user(123321) clear by reason(33)
+05-19-19:00:14.7135 19940 CentralServer::CCSBattle::CCSBattle:33 create battle(5)
+05-19-19:00:14.7215 19940 CentralServer::CCSBattle::CCSBattle:43 battle(5) add user(3001)

@@ -1,0 +1,77 @@
+02-10-21:53:05.9282 11956 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:54 创建战场(1)
+02-10-21:53:05.9302 11956 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:74 玩家(useguid:3001)进入战场(1)
+02-10-21:53:05.9312 9508 SceneServer::CSSBattleMgr::OnMsgFromCS_CreateBattle:221 邀请玩家(wyy)加入战场(1)
+02-10-21:53:05.9542 9508 SceneServer::CSSBattle::PostMsgToGC_EnterBattleState:233 玩家(wyy)确认加入战场(1),当前战场状态(2)
+02-10-21:53:16.6298 9508 SceneServer::CSSBattleMgr::OnMsgFromGC_LoadBattleComplete:100 玩家(wyy)AskLoadBattleComplete
+02-10-21:53:16.6338 9508 SceneServer::CSSBattleMgr::OnMsgFromGC_LoadBattleComplete:105 服务器已进入战场，玩家(wyy)走重练流程
+02-10-21:56:20.1803 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 318828.
+02-10-21:56:20.2803 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 318928.
+02-10-21:56:20.8813 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 319529.
+02-10-21:56:21.3813 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 320029.
+02-10-21:56:21.3863 9508 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:1.
+02-10-21:56:21.3903 9508 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-10-21:56:25.6826 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 324330.
+02-10-21:56:26.0826 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 324730.
+02-10-21:56:26.8826 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 325530.
+02-10-21:56:26.8886 9508 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:2.
+02-10-21:56:26.8916 9508 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10018.
+02-10-21:56:27.0827 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 325730.
+02-10-21:56:27.0857 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 325730.
+02-10-21:56:28.0827 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 326730.
+02-10-21:56:28.6828 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 327330.
+02-10-21:56:29.0828 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 327730.
+02-10-21:56:30.0828 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 328730.
+02-10-21:56:30.3828 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 329030.
+02-10-21:56:31.0829 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 329730.
+02-10-21:56:32.0829 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 330730.
+02-10-21:56:32.1830 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 330830.
+02-10-21:56:33.0830 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 331730.
+02-10-21:56:33.6820 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 332330.
+02-10-21:56:34.0821 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 332730.
+02-10-21:56:35.0821 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 333730.
+02-10-21:56:36.0822 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 334730.
+02-10-21:56:37.0822 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 335730.
+02-10-21:56:37.5823 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 336230.
+02-10-21:56:38.0823 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 336730.
+02-10-21:56:39.0823 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 337730.
+02-10-21:56:40.0834 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 338731.
+02-10-21:56:41.0845 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 339732.
+02-10-21:56:42.0835 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 340731.
+02-10-21:56:43.0836 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 341731.
+02-10-21:56:44.0836 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 342731.
+02-10-21:57:08.6840 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 367332.
+02-10-21:57:09.5841 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 368232.
+02-10-21:57:10.2841 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 368932.
+02-10-21:57:10.7842 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 369432.
+02-10-21:57:10.7922 9508 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:3.
+02-10-21:57:10.7962 9508 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10019.
+02-10-21:57:12.8843 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 371532.
+02-10-21:57:13.3843 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 372032.
+02-10-21:57:13.3873 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 372033.
+02-10-21:57:13.8843 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 372532.
+02-10-21:57:14.3854 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 373032.
+02-10-21:57:14.7844 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 373432.
+02-10-21:57:14.8844 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 373532.
+02-10-21:57:15.2844 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 373932.
+02-10-21:57:15.3844 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 374032.
+02-10-21:57:15.8845 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 374532.
+02-10-21:57:15.8895 9508 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:4.
+02-10-21:57:15.8925 9508 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10020.
+02-10-21:57:15.8955 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 374532.
+02-10-21:57:16.2845 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 374932.
+02-10-21:57:16.3845 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 375032.
+02-10-21:57:17.2845 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 375932.
+02-10-21:57:17.3845 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 376032.
+02-10-21:57:18.2846 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 376932.
+02-10-21:57:18.3846 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 377032.
+02-10-21:57:19.2846 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 377932.
+02-10-21:57:19.3847 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 378032.
+02-10-21:57:20.2847 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 378932.
+02-10-21:57:21.2858 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 379933.
+02-10-21:57:32.1844 9508 SceneServer::CSSHero::ChangeCurHP:1611 Hero hit 390832.
+02-10-21:57:32.1914 9508 SceneServer::CSSGameUnit::NotifyKillHeroMsgToGC:415 User Kills:5.
+02-10-21:57:32.1954 9508 SceneServer::CSSHero::ChangeCurHP:1655 User CurTitle:10021.
+02-10-21:57:41.7929 11956 SceneServer::CSSWorkThreadMgr::SendCSMsgToLogicThread:113 玩家(3001)下线离开战场(1)
+02-10-21:57:41.7959 9508 SceneServer::CSSBattle::OnUserOffline:569 玩家下线，清理玩家(wyy)的网络信息
+02-10-21:57:41.8889 9508 SceneServer::CSSWorkThreadMgr::NotifyDelBattle:274 结束战场(1)
+02-10-21:57:41.8899 11956 SceneServer::CSSWorkThreadMgr::CheckDelBattleCallbackQueue:328 战场结束(1)玩家(3001)移除

@@ -1,0 +1,5 @@
+02-04-20:35:00.6745 6728 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49999, ReuseAddr 1
+02-04-20:35:00.6835 6728 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Start Listen 0:49998, ReuseAddr 1
+02-05-00:16:54.3940 6728 INetSessionMgr::LogText:42 [CRT] OnConnectErr:Address:127.0.0.1:49997
+02-05-00:16:55.6710 6728 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Stop
+02-05-00:16:56.6721 6728 INetSessionMgr::LogText:42 [WRN] CUCODEListener::Stop

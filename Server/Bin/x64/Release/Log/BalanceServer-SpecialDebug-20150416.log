@@ -1,0 +1,2 @@
+04-16-09:23:20.8198 3816 CClientSession::MSG_OneClientLogin:58 user(123)(123)(3) ask login bs
+04-16-09:23:20.8248 3816 CB2LSession::Msg_User_Login:61 user(123)(123)(3) ask login ret

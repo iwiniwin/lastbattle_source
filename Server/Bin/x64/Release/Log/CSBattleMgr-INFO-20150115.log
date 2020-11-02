@@ -1,0 +1,16 @@
+01-15-22:57:03.2786 3936 CentralServer::CCSCfgMgr::LoadFilterWordsCfg:1950 Success!
+01-15-22:57:03.9876 3936 CentralServer::CCSCfgMgr::LoadAiRobotName:2130 LoadAiRobotName Success!
+01-15-22:57:03.9996 3936 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+01-15-22:57:04.0056 3936 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+01-15-22:57:04.0076 3936 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+01-15-22:57:04.0106 3936 DBActiveWrapper::DBActiveWrapper:18 ##### connect db ok !############
+01-15-22:57:04.0126 3936 CentralServer::CCSKernel::Start:169 success!
+01-15-22:57:04.0236 3936 CRedisSession::SendInitData:23 连接上Redis
+01-15-22:57:04.0246 3936 CLogicRedisSession::SendInitData:14 连接上Redis
+01-15-22:57:04.1567 3936 CGateSession::OnRealEstablish:57 GS(30001) Connected
+01-15-22:57:04.5087 3936 CSceneSession::OnRealEstablish:60 SS(20001) Connected
+01-15-22:57:04.5117 3936 CentralServer::CCSBattleMgr::PostMsgToSS_NotifyGameLogSwitch:570 -------cs send switch to ss ok------------
+01-15-22:57:04.5247 3936 CCSLogSession::SendInitData:26  LogServer Connected, try to register me.
+01-15-23:13:39.5146 3936 CCSLogSession::OnClose:34 DisConnect.
+01-15-23:13:42.4868 3936 CGateSession::OnClose:65 GS(30001) DisConnected
+01-15-23:13:43.7918 3936 CSceneSession::OnClose:67 SS(20001) DisConnected
